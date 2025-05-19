@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/myname.svg" width="400px" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/title.svg" width="400px" />
 </p>
 
 <h3 align="center">
 
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/subtitle.svg" width="auto" align="center" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/subtitle.svg" width="90%" align="center" />
   <br>
 
   <a href="https://www.linkedin.com/in/stephanie-gurgel-7998aa35b">
@@ -18,7 +18,7 @@
 ---
 
 
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/me.png" width="300px" align="right" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/coding.svg" width="300px" align="right" />
 
 <br><br><br><br>
 Motivated frontend developer actively seeking a <strong>job opportunity</strong> to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
