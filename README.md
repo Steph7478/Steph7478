@@ -12,7 +12,7 @@
 
 ---
 
-<img src=".github/me.png" width="300px" align="right" />
+<img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/me.png" width="300px" align="right" />
 
 <h3> <br> 📝 <strong>About Me</strong></h3>
 <br>
