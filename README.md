@@ -27,7 +27,7 @@ Motivated frontend developer actively seeking a <strong>job opportunity</strong>
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/tecnologies.svg" width="50%" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/tecnologies.svg" width="450px" />
 </p>
 
 ### 🧠 **Languages**
