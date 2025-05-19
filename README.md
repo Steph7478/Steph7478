@@ -3,7 +3,10 @@
 </p>
 
 <h3 align="center">
-  Frontend Developer 💻 | React, TypeScript & UI Lover 🌿<br><br>
+
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/subtitle.svg" width="auto" align="center" />
+  <br>
+
   <a href="https://www.linkedin.com/in/stephanie-gurgel-7998aa35b">
     <img src="https://img.shields.io/badge/LinkedIn-0A6640?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/>
   </a>
@@ -17,15 +20,15 @@
 
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/me.png" width="300px" align="right" />
 
-
-<h3><br>📝 <strong>About Me</strong></h3>
-<br>
+<br><br><br><br>
 Motivated frontend developer actively seeking a <strong>job opportunity</strong> to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
 <br><br><br><br>
 
 ---
 
-<h2 align="center">🚀 Technologies I Use</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/tecnologies.svg" width="450px" />
+</p>
 
 ### 🧠 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B4720?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -61,7 +64,9 @@ Motivated frontend developer actively seeking a <strong>job opportunity</strong>
 
 ---
 
-<h2 align="center">📈 GitHub Statistics</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/status.svg" width="400px" />
+</p>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&theme=tokyonight&hide_border=true&background=000000&ring=00ff99&fire=00ff99" width="401px" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Steph7478&theme=dark&bg_color=000000&title_color=00ff99&text_color=00ff99&icon_color=00ff99&show_icons=true&hide_border=true&count_private=true" width="380px" alt="GitHub Stats"/>
