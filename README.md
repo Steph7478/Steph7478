@@ -1,4 +1,4 @@
-<h1 align="center">✨ Stephanie Gurgel ✨
+<h1 align="center">Stephanie Gurgel
 </h1>
 
 <h3 align="center">Frontend Developer 💻 | React, TypeScript & UI Lover 🌿<br> <br>
@@ -59,9 +59,9 @@ Motivated frontend developer actively seeking a <strong>job opportunity</strong>
 
 <h2 align="center">📈 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&theme=vue-dark&hide_border=true" width="401px" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Steph7478&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="380px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="380px" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&theme=gotham&hide_border=true" width="401px" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Steph7478&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="380px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&theme=gotham&show_icons=true&hide_border=true&layout=compact" width="380px" alt="Top Languages"/>
 </div>
 
 
