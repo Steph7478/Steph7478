@@ -17,14 +17,17 @@
 
 ---
 
-
+<p align="right">
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/illustration.png" width="300px" align="right" />
+</p>
 
-<br><br><br><br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/aboutme.svg " width="400px" />
+
 Motivated frontend developer actively seeking a <strong>job opportunity</strong> to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
-<br><br><br><br><br>
+</p>
 
----
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/tecnologies.svg" width="450px" />
