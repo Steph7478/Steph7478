@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/title.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/title.svg" width="500px" />
 </p>
 
 <h3 align="center">
