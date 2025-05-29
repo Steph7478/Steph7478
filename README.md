@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/title.svg" width="500px" />
-</p>
+
 
 <h3 align="center">
-
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/frontend.svg" width="450px" align="center" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/frontend.svg" width="550px" align="center" />
   <br>
   <br>
   <a href="https://www.linkedin.com/in/stephanie-gurgel-7998aa35b">
