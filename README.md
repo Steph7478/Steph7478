@@ -33,8 +33,8 @@ Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in buildin
 ### 🧠 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B4720?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-154734?style=for-the-badge&logo=typescript&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML5-2C6E49?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1D5C4F?style=for-the-badge&logo=css3&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-2C6E49?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1D5C4F?style=for-the-badge&logo=css3&logoColor=fff)
 
 ### ⚛️ **Frontend**
 ![React](https://img.shields.io/badge/React-0F3D30?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,12 +43,13 @@ Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in buildin
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-145943?style=for-the-badge&logo=framer&logoColor=fff)
 ![React Query](https://img.shields.io/badge/React_Query-275E4D?style=for-the-badge&logo=react-query&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-235544?style=for-the-badge&logo=vite&logoColor=fff)
+![Axios](https://img.shields.io/badge/Axios-1C4635?style=for-the-badge&logo=axios&logoColor=fff)
 
 ### 🧩 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-1F4D3A?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-144733?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-11693C?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Mongoose](https://img.shields.io/badge/Mongoose-223D31?style=for-the-badge&logo=mongoose&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B4D3E?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![JWT](https://img.shields.io/badge/JWT-24442D?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
 
 ### 🧰 **Tools**
@@ -58,6 +59,13 @@ Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in buildin
 ![VS Code](https://img.shields.io/badge/VS_Code-154734?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-1EB980?style=for-the-badge&logo=supabase&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-28765C?style=for-the-badge&logo=stripe&logoColor=fff)
+![Vitest](https://img.shields.io/badge/Vitest-144733?style=for-the-badge&logo=vitest&logoColor=fff)
+![Jest](https://img.shields.io/badge/Jest-154734?style=for-the-badge&logo=jest&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-205070?style=for-the-badge&logo=jira&logoColor=fff)
+![Trello](https://img.shields.io/badge/Trello-205070?style=for-the-badge&logo=trello&logoColor=fff)
+![Scrum](https://img.shields.io/badge/Scrum-205070?style=for-the-badge&logo=scrumalliance&logoColor=fff)
+![Kanban](https://img.shields.io/badge/Kanban-205070?style=for-the-badge&logo=kanban&logoColor=fff)
+![Slack](https://img.shields.io/badge/Slack-205070?style=for-the-badge&logo=slack&logoColor=fff)
 
 ### 🌐 **APIs**
 ![REST API](https://img.shields.io/badge/REST_API-1B4F3E?style=for-the-badge&logo=api&logoColor=fff)
