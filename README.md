@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/aboutme.svg " width="300px" />
 
-Motivated frontend developer actively seeking a <strong>job opportunity</strong> to apply and deepen my skills in React, TypeScript, and modern UI development. I’m driven by clean code, thoughtful design, and the challenge of turning complex ideas into intuitive user experiences.
+Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in building modern, reusable components with attention to UI/UX best practices. I have solid experience working with REST APIs, state management, and caching using React Query. I prioritize writing clean, modular, and maintainable code, always aiming for well-structured layouts, responsive design, and an intuitive user experience.
 </p>
 
 <br>
