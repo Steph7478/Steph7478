@@ -1,5 +1,3 @@
-
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/frontend.svg" width="550px" align="center" />
   <br>
@@ -33,6 +31,7 @@ Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in buildin
 ### 🧠 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B4720?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-154734?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-154734?style=for-the-badge&logo=python&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-2C6E49?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1D5C4F?style=for-the-badge&logo=css3&logoColor=fff)
 
@@ -45,7 +44,9 @@ Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in buildin
 ![Vite](https://img.shields.io/badge/Vite-235544?style=for-the-badge&logo=vite&logoColor=fff)
 ![Axios](https://img.shields.io/badge/Axios-1C4635?style=for-the-badge&logo=axios&logoColor=fff)
 
-### 🧩 **Backend**
+### 🧩 **Backend & Data**
+![Django](https://img.shields.io/badge/Django-154734?style=for-the-badge&logo=django&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-1D3F2A?style=for-the-badge&logo=pandas&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1F4D3A?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-144733?style=for-the-badge&logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-11693C?style=for-the-badge&logo=mongodb&logoColor=fff)
@@ -80,5 +81,3 @@ Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in buildin
   <img src="https://github-readme-stats.vercel.app/api?username=Steph7478&theme=dark&bg_color=000000&title_color=00ff99&text_color=00ff99&icon_color=00ff99&show_icons=true&hide_border=true&count_private=true" width="380px" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&theme=dark&bg_color=000000&title_color=00ff99&text_color=00ff99&icon_color=00ff99&show_icons=true&hide_border=true&layout=compact" width="380px" alt="Top Languages"/>
 </div>
-
-
