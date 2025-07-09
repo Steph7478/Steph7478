@@ -27,7 +27,7 @@ Equally confident with Python, I build powerful and secure backends using Django
 <br>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.gif" width="400px" align="right" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.png" width="400px" align="right" />
 </p>
 
 <p align="center">
