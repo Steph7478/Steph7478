@@ -1,8 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header" />
 <h3 align="center">
-<img width="100%" 
-     src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I%E2%80%99m+a+Fullstack+Dev." 
-     alt="typing-banner"/>
+<img
+  width="100%"
+  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Fullstack+Developer."
+  alt="typing-banner"
+/>
   <br>
 </h3>
 <br>
