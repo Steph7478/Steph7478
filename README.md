@@ -107,7 +107,7 @@ Equally confident with Python, I build powerful and secure backends using Django
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00" width="440px" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&show_icons=true&hide_border=true&layout=compact" width="317px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&show_icons=true&hide_border=true&layout=compact" width="316px" alt="Top Languages"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer" />
