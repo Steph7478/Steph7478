@@ -93,6 +93,8 @@ Equally confident with Python, I build powerful and secure backends using Django
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/status.gif" width="300px" />
 </p>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
