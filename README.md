@@ -93,10 +93,15 @@ Equally confident with Python, I build powerful and secure backends using Django
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/status.gif" width="300px" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
+</picture>
+
 <br>
 
 [![Steph7478's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00" width="401px" alt="GitHub Streak"/>
