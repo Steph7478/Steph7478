@@ -20,6 +20,11 @@
 Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in building modern, reusable components with strong focus on UI/UX best practices. I'm also skilled in working with REST APIs, state management, and data caching using React Query. I write clean, organized, and maintainable code, always aiming for responsive layouts and smooth user experiences. <br><br>
 Equally confident with Python, I build powerful and secure backends using Django and Django REST Framework, creating solid APIs that connect perfectly with modern frontends.
 
+<br>
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%2300FF00?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)
+
+
 </p>
 
 <br>
@@ -35,6 +40,7 @@ Equally confident with Python, I build powerful and secure backends using Django
 <p align="center">
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/Technologies.gif" width="250px" />
 </p>
+
 
 ### 💚 **Languages**
 
