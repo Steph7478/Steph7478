@@ -22,8 +22,7 @@ Equally confident with Python, I build powerful and secure backends using Django
 
 <br>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%2300FF00?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)
 
 </p>
 
