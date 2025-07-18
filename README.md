@@ -113,8 +113,17 @@ Equally confident with Python, I build powerful and secure backends using Django
 [![Steph7478's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00" width="440px" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&show_icons=true&hide_border=true&layout=compact" width="316px" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&sideNums=00FF00" 
+    width="440px" 
+    alt="GitHub Streak"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&layout=compact" 
+    width="316px" 
+    alt="Top Languages"
+  />
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer" />
