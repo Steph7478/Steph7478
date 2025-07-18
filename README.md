@@ -32,15 +32,14 @@ Equally confident with Python, I build powerful and secure backends using Django
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
 <br>
+<img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/Technologies.gif" width="250px" align="left" />
+<br>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.png" width="400px" align="right" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.png" width="35%" align="right" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/Technologies.gif" width="250px" />
-</p>
-
+<div align="left" >
 
 ### 💚 **Languages**
 
@@ -90,6 +89,8 @@ Equally confident with Python, I build powerful and secure backends using Django
 ### 🍃 **APIs**
 
 ![REST API](https://img.shields.io/badge/REST_API-003300?style=for-the-badge&logo=api&logoColor=4CAF50)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
