@@ -84,6 +84,8 @@ Equally confident with Python, I build powerful and secure backends using Django
 ![Scrum](https://img.shields.io/badge/Scrum-003300?style=for-the-badge&logo=scrumalliance&logoColor=4CAF50)
 ![Kanban](https://img.shields.io/badge/Kanban-003300?style=for-the-badge&logo=kanban&logoColor=4CAF50)
 ![Slack](https://img.shields.io/badge/Slack-003300?style=for-the-badge&logo=slack&logoColor=4CAF50)
+![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
+
 
 ### 🍃 **APIs**
 
