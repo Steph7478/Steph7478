@@ -23,6 +23,9 @@ Equally confident with Python, I build powerful and secure backends using Django
 <br>
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)
+<br>
+[![Email](https://img.shields.io/badge/Email-gurgeldev@outlook.de-003300?style=for-the-badge&logo=gmail&logoColor=4CAF50)](mailto:gurgeldev@outlook.de)
+
 
 </p>
 
