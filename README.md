@@ -2,7 +2,7 @@
 <h3 align="center">
 <img
   width="100%"
-  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Fullstack+Developer."
+  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Backend+Developer."
   alt="typing-banner"
 />
   <br>
@@ -17,8 +17,15 @@
 <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/About_me.gif" width="180px" />
 <br>
 
-Skilled in React, Next.js, Tailwind CSS, and TypeScript, I specialize in building modern, reusable components with strong focus on UI/UX best practices. I'm also skilled in working with REST APIs, state management, and data caching using React Query. I write clean, organized, and maintainable code, always aiming for responsive layouts and smooth user experiences. <br><br>
-Equally confident with Python, I build powerful and secure backends using Django and Django REST Framework, creating solid APIs that connect perfectly with modern frontends.
+I'm a backend developer specialized in Python, Django, and Django REST Framework, with a strong focus on building secure, scalable, and maintainable APIs. I work with best practices like Object-Oriented Programming (OOP), Clean Code, SOLID, TDD, and DDD, delivering backend solutions that are both robust and easy to extend.
+
+I have solid experience in API security (JWT with HttpOnly cookies, rate limiting, brute-force protection, NoSQL injection prevention), Dockerized environments and working with relational and NoSQL databases like PostgreSQL and MongoDB.
+
+While Django is my main stack, I also have hands-on experience with Node.js and Express.js, especially in building RESTful APIs and integrating external services.
+
+My frontend skills with React, Next.js, TypeScript, and Tailwind CSS help me collaborate effectively in cross-functional teams and better understand how frontend and backend connect to form a great product experience.
+
+I'm fluent in Portuguese, English, German, and Italian, and I enjoy working in diverse, international teams. I'm always learning, experimenting, and refining my backend skills to deliver solutions that are clean, efficient, and aligned with modern standards.
 
 <br>
 
@@ -79,7 +86,7 @@ Equally confident with Python, I build powerful and secure backends using Django
 ![GitHub](https://img.shields.io/badge/GitHub-003300?style=for-the-badge&logo=github&logoColor=4CAF50)
 ![Figma](https://img.shields.io/badge/Figma-003300?style=for-the-badge&logo=figma&logoColor=4CAF50)
 ![VS Code](https://img.shields.io/badge/VS_Code-003300?style=for-the-badge&logo=visual-studio-code&logoColor=4CAF50)
-![Supabase](https://img.shields.io/badge/Supabase-003300?style=for-the-badge&logo=supabase&logoColor=4CAF50)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-003300?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![Stripe](https://img.shields.io/badge/Stripe-003300?style=for-the-badge&logo=stripe&logoColor=4CAF50)
 ![Vitest](https://img.shields.io/badge/Vitest-003300?style=for-the-badge&logo=vitest&logoColor=4CAF50)
 ![Jest](https://img.shields.io/badge/Jest-003300?style=for-the-badge&logo=jest&logoColor=4CAF50)
