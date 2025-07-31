@@ -25,7 +25,7 @@ While Django is my main stack, I also have hands-on experience with Java and Spr
 
 My frontend skills with React, Next.js, TypeScript, and Tailwind CSS help me collaborate effectively in cross-functional teams and better understand how frontend and backend connect to form a great product experience.
 
-I'm fluent in Portuguese, English, German, and Italian, and I enjoy working in diverse, international teams. I'm always learning, experimenting, and refining my backend skills to deliver solutions that are clean, efficient, and aligned with modern standards.
+I have native proficiency in Portuguese and advanced knowledge of English, German, and Italian. I'm always learning, experimenting, and refining my backend skills to deliver solutions that are clean, efficient, and aligned with modern standards.
 
 <br>
 
