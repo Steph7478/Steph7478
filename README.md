@@ -21,7 +21,7 @@ I'm a backend developer specialized in Python, Django, and Django REST Framework
 
 I have solid experience in API security (JWT with HttpOnly cookies, rate limiting, brute-force protection, NoSQL injection prevention), Dockerized environments and working with relational and NoSQL databases like PostgreSQL and MongoDB.
 
-While Django is my main stack, I also have hands-on experience with Node.js and Express.js, especially in building RESTful APIs and integrating external services.
+While Django is my main stack, I also have hands-on experience with Java and Spring Boot, as well as Node.js and Express.js, especially in building RESTful APIs and integrating external services.
 
 My frontend skills with React, Next.js, TypeScript, and Tailwind CSS help me collaborate effectively in cross-functional teams and better understand how frontend and backend connect to form a great product experience.
 
@@ -55,6 +55,7 @@ I'm fluent in Portuguese, English, German, and Italian, and I enjoy working in d
 ![JavaScript](https://img.shields.io/badge/JavaScript-003300?style=for-the-badge&logo=javascript&logoColor=4CAF50)
 ![TypeScript](https://img.shields.io/badge/TypeScript-003300?style=for-the-badge&logo=typescript&logoColor=4CAF50)
 ![Python](https://img.shields.io/badge/Python-003300?style=for-the-badge&logo=python&logoColor=4CAF50)
+![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=java&logoColor=4CAF50)
 
 ### ✅ **Frontend**
 
@@ -72,9 +73,10 @@ I'm fluent in Portuguese, English, German, and Italian, and I enjoy working in d
 ### 🐍 **Backend & Data**
 
 ![Django](https://img.shields.io/badge/Django-003300?style=for-the-badge&logo=django&logoColor=4CAF50)
-![Pandas](https://img.shields.io/badge/Pandas-003300?style=for-the-badge&logo=pandas&logoColor=4CAF50)
 ![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge&logo=node.js&logoColor=4CAF50)
 ![Express.js](https://img.shields.io/badge/Express.js-003300?style=for-the-badge&logo=express&logoColor=4CAF50)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
+![Pandas](https://img.shields.io/badge/Pandas-003300?style=for-the-badge&logo=pandas&logoColor=4CAF50)
 ![MongoDB](https://img.shields.io/badge/MongoDB-003300?style=for-the-badge&logo=mongodb&logoColor=4CAF50)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
 ![JWT](https://img.shields.io/badge/JWT-003300?style=for-the-badge&logo=jsonwebtokens&logoColor=4CAF50)
@@ -96,7 +98,6 @@ I'm fluent in Portuguese, English, German, and Italian, and I enjoy working in d
 ![Kanban](https://img.shields.io/badge/Kanban-003300?style=for-the-badge&logo=kanban&logoColor=4CAF50)
 ![Slack](https://img.shields.io/badge/Slack-003300?style=for-the-badge&logo=slack&logoColor=4CAF50)
 ![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
-
 
 ### 🍃 **APIs**
 
