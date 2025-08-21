@@ -17,11 +17,11 @@
 <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/About_me.gif" width="180px" />
 <br>
 
-I'm a backend developer specialized in Python, Django, and Django REST Framework, with a strong focus on building secure, scalable, and maintainable APIs. I work with best practices like Object-Oriented Programming (OOP), Clean Code, SOLID, TDD, and DDD, delivering backend solutions that are both robust and easy to extend.
+I'm a backend developer specialized in **Java and Spring Boot**, with a strong focus on building secure, scalable, and maintainable APIs. I work with best practices like Object-Oriented Programming (OOP), Clean Code, SOLID, TDD, and DDD, delivering backend solutions that are both robust and easy to extend.
 
 I have solid experience in API security (JWT with HttpOnly cookies, rate limiting, brute-force protection, NoSQL injection prevention), Dockerized environments and working with relational and NoSQL databases like PostgreSQL and MongoDB.
 
-While Django is my main stack, I also have hands-on experience with Java and Spring Boot, as well as Node.js and Express.js, especially in building RESTful APIs and integrating external services.
+While Java and Spring Boot are my main stack, I also have hands-on experience with Python and Django, as well as Node.js and Express.js, especially in building RESTful APIs and integrating external services.
 
 My frontend skills with React, Next.js, TypeScript, and Tailwind CSS help me collaborate effectively in cross-functional teams and better understand how frontend and backend connect to form a great product experience.
 
@@ -72,10 +72,11 @@ I have native proficiency in Portuguese and advanced knowledge of English, Germa
 
 ### 🐍 **Backend & Data**
 
-![Django](https://img.shields.io/badge/Django-003300?style=for-the-badge&logo=django&logoColor=4CAF50)
+![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=java&logoColor=4CAF50)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
 ![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge&logo=node.js&logoColor=4CAF50)
 ![Express.js](https://img.shields.io/badge/Express.js-003300?style=for-the-badge&logo=express&logoColor=4CAF50)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
+![Django](https://img.shields.io/badge/Django-003300?style=for-the-badge&logo=django&logoColor=4CAF50)
 ![Pandas](https://img.shields.io/badge/Pandas-003300?style=for-the-badge&logo=pandas&logoColor=4CAF50)
 ![MongoDB](https://img.shields.io/badge/MongoDB-003300?style=for-the-badge&logo=mongodb&logoColor=4CAF50)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
@@ -104,6 +105,7 @@ I have native proficiency in Portuguese and advanced knowledge of English, Germa
 ![REST API](https://img.shields.io/badge/REST_API-003300?style=for-the-badge&logo=api&logoColor=4CAF50)
 
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
