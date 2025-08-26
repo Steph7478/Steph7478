@@ -93,12 +93,15 @@ I have native proficiency in Portuguese and advanced knowledge of English, Germa
 ![Stripe](https://img.shields.io/badge/Stripe-003300?style=for-the-badge&logo=stripe&logoColor=4CAF50)
 ![Vitest](https://img.shields.io/badge/Vitest-003300?style=for-the-badge&logo=vitest&logoColor=4CAF50)
 ![Jest](https://img.shields.io/badge/Jest-003300?style=for-the-badge&logo=jest&logoColor=4CAF50)
+![JUnit](https://img.shields.io/badge/JUnit-003300?style=for-the-badge&logo=junit5&logoColor=4CAF50)
+![Mockito](https://img.shields.io/badge/Mockito-003300?style=for-the-badge&logo=mockito&logoColor=4CAF50)
 ![Jira](https://img.shields.io/badge/Jira-003300?style=for-the-badge&logo=jira&logoColor=4CAF50)
 ![Trello](https://img.shields.io/badge/Trello-003300?style=for-the-badge&logo=trello&logoColor=4CAF50)
 ![Scrum](https://img.shields.io/badge/Scrum-003300?style=for-the-badge&logo=scrumalliance&logoColor=4CAF50)
 ![Kanban](https://img.shields.io/badge/Kanban-003300?style=for-the-badge&logo=kanban&logoColor=4CAF50)
 ![Slack](https://img.shields.io/badge/Slack-003300?style=for-the-badge&logo=slack&logoColor=4CAF50)
 ![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
+
 
 ### 🍃 **APIs**
 
