@@ -119,16 +119,18 @@ I have native proficiency in Portuguese and advanced knowledge of English, Germa
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&hide_border=true&layout=compact" 
-    width="316px" 
-    alt="Top Languages"
-  />
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&sideNums=00FF00" 
     width="440px" 
     alt="GitHub Streak"
   />
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/wakatime.png" width="700px" />
+</p>
+
 
 [![Steph7478's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
