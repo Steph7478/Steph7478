@@ -72,7 +72,6 @@ I have native proficiency in Portuguese and advanced knowledge of English, Germa
 
 ### 🐍 **Backend & Data**
 
-![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=java&logoColor=4CAF50)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
 ![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge&logo=node.js&logoColor=4CAF50)
 ![Express.js](https://img.shields.io/badge/Express.js-003300?style=for-the-badge&logo=express&logoColor=4CAF50)
@@ -102,13 +101,11 @@ I have native proficiency in Portuguese and advanced knowledge of English, Germa
 ![Slack](https://img.shields.io/badge/Slack-003300?style=for-the-badge&logo=slack&logoColor=4CAF50)
 ![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
 
-
 ### 🍃 **APIs**
 
 ![REST API](https://img.shields.io/badge/REST_API-003300?style=for-the-badge&logo=api&logoColor=4CAF50)
 
 </div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
