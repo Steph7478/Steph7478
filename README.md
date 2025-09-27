@@ -34,7 +34,6 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English, Germa
 ### 🌱 What I'm Currently Learning  
 
 In my current project, I’m diving deeper into **security, architecture, and backend design** using **DDD + Clean Architecture**.  
-
 Some of the key topics I’m focusing on include:  
 
 - 🔐 **Custom policies & permissions** · managing public and private routes with role-based access (`ADMIN`, `USER`, `PUBLIC`) and dynamic CORS integration.  
