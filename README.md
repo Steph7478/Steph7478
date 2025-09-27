@@ -38,12 +38,12 @@ Some of the key topics I’m focusing on include:
 
 - 🔐 **Custom policies & permissions** · managing public and private routes with role-based access (`ADMIN`, `USER`, `PUBLIC`) and dynamic CORS integration.  
 - 🔄 **Layer mappers** · creating clear mappings between entities, DTOs, and responses to ensure proper separation of concerns.  
-- 🛡️ **Advanced authentication & authorization** · implementing **OAuth**, **RSA tokens**, and fine-grained role/permission management at the endpoint level.  
+- 🛡️ **Advanced authentication & authorization** · implementing **OAuth**, **RSA tokens with padding**, and fine-grained role/permission management at the endpoint level.  
 - ⚡ **Custom exceptions & aspects (AOP)** · centralized error handling, logging, and validation powered by cross-cutting concerns.  
 - 🧩 **Custom annotations** · adding domain-specific rules and security constraints directly through annotations for better readability and maintainability.  
+- ⚙️ **Caching strategies** · applying cache techniques to improve performance and scalability in backend systems.  
 
 ✨ This project is helping me strengthen my skills in building **robust, secure, and scalable backends**, while following **Clean Code, SOLID principles, and domain-driven design practices**.
-
 
 <br>
 
