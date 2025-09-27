@@ -29,7 +29,7 @@ On the frontend side, I have experience with **React, Next.js, TypeScript, and T
 
 I’m fluent in **Portuguese** and have advanced proficiency in **English, German, and Italian**. I’m constantly learning, experimenting, and refining my skills to build backend systems that are **clean, efficient, and aligned with modern standards**.  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
+<br>
 
 ### 🌱 What I'm Currently Learning  
 
