@@ -27,6 +27,21 @@ My frontend skills with React, Next.js, TypeScript, and Tailwind CSS help me col
 
 I have native proficiency in Portuguese and advanced knowledge of English, German, and Italian. I'm always learning, experimenting, and refining my backend skills to deliver solutions that are clean, efficient, and aligned with modern standards.
 
+### 🌱 What I'm Currently Learning  
+
+In my current project, I’m diving deeper into **security, architecture, and backend design** using **DDD + Clean Architecture**.  
+
+Some of the key topics I’m focusing on include:  
+
+- 🔐 **Custom policies & permissions** · managing public and private routes with role-based access (`ADMIN`, `USER`, `PUBLIC`) and dynamic CORS integration.  
+- 🔄 **Layer mappers** · creating clear mappings between entities, DTOs, and responses to ensure proper separation of concerns.  
+- 🛡️ **Advanced authentication & authorization** · implementing **OAuth**, **RSA tokens**, and fine-grained role/permission management at the endpoint level.  
+- ⚡ **Custom exceptions & aspects (AOP)** · centralized error handling, logging, and validation powered by cross-cutting concerns.  
+- 🧩 **Custom annotations** · adding domain-specific rules and security constraints directly through annotations for better readability and maintainability.  
+
+✨ This project is helping me strengthen my skills in building **robust, secure, and scalable backends**, while following **Clean Code, SOLID principles, and domain-driven design practices**.
+
+
 <br>
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)  
