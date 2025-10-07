@@ -48,6 +48,7 @@ Some of the key topics I’m focusing on include:
 <br>
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-steph7478-%23009900?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/steph7478/)  
 [![Email](https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gurgeldev@outlook.de)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black)](https://gurgeldev.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gurgel-dev/)
