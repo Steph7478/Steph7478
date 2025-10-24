@@ -17,19 +17,38 @@
 <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/About_me.gif" width="180px" />
 <br>
 
-I'm a backend developer specialized in **Java and Spring Boot**, with a strong focus on building secure, scalable, and maintainable APIs. I work with best practices like Object-Oriented Programming (OOP), Clean Code, SOLID, TDD, and DDD, delivering backend solutions that are both robust and easy to extend.
+### 🟢 Introduction
 
-I have solid experience in API security (JWT with HttpOnly cookies, rate limiting, brute-force protection, NoSQL injection prevention), Dockerized environments and working with relational and NoSQL databases like PostgreSQL and MongoDB.
+I’m a **backend developer specialized in Java and Spring Boot**, with a strong focus on designing **secure, scalable, and maintainable APIs**. I follow best practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are robust and easy to extend.  
 
-While Java and Spring Boot are my main stack, I also have hands-on experience with Python and Django, as well as Node.js and Express.js, especially in building RESTful APIs and integrating external services.
+I have solid experience in **API security**, including JWT with HttpOnly cookies, rate limiting, brute-force protection, and NoSQL injection prevention. I also work with **Dockerized environments** and have hands-on experience with both **relational databases (PostgreSQL)** and **NoSQL databases (MongoDB)**.  
 
-My frontend skills with React, Next.js, TypeScript, and Tailwind CSS help me collaborate effectively in cross-functional teams and better understand how frontend and backend connect to form a great product experience.
+While Java and Spring Boot are my main stack, I also work with **Python and Django**, as well as **Node.js and Express.js**, especially for building RESTful APIs and integrating external services.  
 
-I have native proficiency in Portuguese and advanced knowledge of English, German, and Italian. I'm always learning, experimenting, and refining my backend skills to deliver solutions that are clean, efficient, and aligned with modern standards.
+On the frontend side, I have experience with **React, Next.js, TypeScript, and Tailwind CSS**, which helps me collaborate effectively in cross-functional teams and better understand the connection between frontend and backend.  
+
+I’m fluent in **Portuguese** and have advanced proficiency in **English, German, and Italian**. I’m constantly learning, experimenting, and refining my skills to build backend systems that are **clean, efficient, and aligned with modern standards**.  
+
+<br>
+
+### 🌱 What I'm Currently Learning  
+
+In my current project, I’m diving deeper into **security, architecture, and backend design** using **DDD + Clean Architecture**.  
+Some of the key topics I’m focusing on include:  
+
+- 🔐 **Custom policies & permissions** · managing public and private routes with role-based access (`ADMIN`, `USER`, `PUBLIC`) and dynamic CORS integration.  
+- 🔄 **Layer mappers** · creating clear mappings between entities, DTOs, and responses to ensure proper separation of concerns.  
+- 🛡️ **Advanced authentication & authorization** · implementing **OAuth**, **RSA tokens with padding**, and fine-grained role/permission management at the endpoint level.  
+- ⚡ **Custom exceptions & aspects (AOP)** · centralized error handling, logging, and validation powered by cross-cutting concerns.  
+- 🧩 **Custom annotations** · adding domain-specific rules and security constraints directly through annotations for better readability and maintainability.  
+- ⚙️ **Caching strategies** · applying cache techniques to improve performance and scalability in backend systems.  
+
+✨ This project is helping me strengthen my skills in building **robust, secure, and scalable backends**, while following **Clean Code, SOLID principles, and domain-driven design practices**.
 
 <br>
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-steph7478-%23009900?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/steph7478/)  
 [![Email](https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gurgeldev@outlook.de)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black)](https://gurgeldev.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gurgel-dev/)
