@@ -19,15 +19,15 @@
 
 ### 🟢 Introduction
 
-I’m a **backend developer specialized in Java and Spring Boot**, with a strong focus on designing **secure, scalable, and maintainable APIs**. I follow best practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are robust and easy to extend.  
+I’m a backend developer specialized in **Java** and **Spring Boot**, with a strong focus on designing **secure**, **scalable**, and **maintainable APIs**. I follow best practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are **robust** and easy to extend.
 
-I have solid experience in **API security**, including JWT with HttpOnly cookies, rate limiting, brute-force protection, and NoSQL injection prevention. I also work with **Dockerized environments** and have hands-on experience with both **relational databases (PostgreSQL)** and **NoSQL databases (MongoDB)**.  
+I have solid experience in **API security**, including **JWT with HttpOnly cookies**, **rate limiting**, **brute-force protection**, and **NoSQL injection prevention**. I also work with **Dockerized environments** and have hands-on experience with both **relational databases (PostgreSQL)** and **NoSQL databases (MongoDB)**.
 
-While Java and Spring Boot are my main stack, I also work with **Python and Django**, as well as **Node.js and Express.js**, especially for building RESTful APIs and integrating external services.  
+My main stack is **Java + Spring Boot**, and my second stack is **C# + ASP.NET Core**, giving me versatility to work in both **Java** and **.NET ecosystems**. I also work with **Python/Django** and **Node.js/Express.js**, especially for building **RESTful APIs** and integrating external services.
 
-On the frontend side, I have experience with **React, Next.js, TypeScript, and Tailwind CSS**, which helps me collaborate effectively in cross-functional teams and better understand the connection between frontend and backend.  
+On the frontend side, I have experience with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, which helps me collaborate effectively in cross-functional teams and better understand the connection between **frontend** and **backend**.
 
-I’m fluent in **Portuguese** and have advanced proficiency in **English, German, and Italian**. I’m constantly learning, experimenting, and refining my skills to build backend systems that are **clean, efficient, and aligned with modern standards**.  
+I’m fluent in **Portuguese** and have advanced proficiency in **English**, **German**, and **Italian**. I’m constantly **learning**, **experimenting**, and **refining my skills** to build **backend systems** that are **clean**, **efficient**, and aligned with **modern standards**.
 
 <br>
 
@@ -75,6 +75,7 @@ Some of the key topics I’m focusing on include:
 ![TypeScript](https://img.shields.io/badge/TypeScript-003300?style=for-the-badge&logo=typescript&logoColor=4CAF50)
 ![Python](https://img.shields.io/badge/Python-003300?style=for-the-badge&logo=python&logoColor=4CAF50)
 ![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=java&logoColor=4CAF50)
+![C#](https://img.shields.io/badge/C%23-003300?style=for-the-badge&logo=c-sharp&logoColor=4CAF50)
 
 ### ✅ **Frontend**
 
@@ -100,6 +101,8 @@ Some of the key topics I’m focusing on include:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
 ![JWT](https://img.shields.io/badge/JWT-003300?style=for-the-badge&logo=jsonwebtokens&logoColor=4CAF50)
 ![Swagger](https://img.shields.io/badge/Swagger-003300?style=for-the-badge&logo=swagger&logoColor=66BB6A)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-003300?style=for-the-badge&logo=asp.net&logoColor=4CAF50)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-003300?style=for-the-badge&logo=entity-framework&logoColor=4CAF50)
 
 ### 🟩 **Tools**
 
@@ -113,6 +116,8 @@ Some of the key topics I’m focusing on include:
 ![Jest](https://img.shields.io/badge/Jest-003300?style=for-the-badge&logo=jest&logoColor=4CAF50)
 ![JUnit](https://img.shields.io/badge/JUnit-003300?style=for-the-badge&logo=junit5&logoColor=4CAF50)
 ![Mockito](https://img.shields.io/badge/Mockito-003300?style=for-the-badge&logo=mockito&logoColor=4CAF50)
+![xUnit](https://img.shields.io/badge/xUnit-003300?style=for-the-badge&logo=xunit&logoColor=4CAF50)
+![Moq](https://img.shields.io/badge/Moq-003300?style=for-the-badge&logo=moq&logoColor=4CAF50)
 ![Jira](https://img.shields.io/badge/Jira-003300?style=for-the-badge&logo=jira&logoColor=4CAF50)
 ![Trello](https://img.shields.io/badge/Trello-003300?style=for-the-badge&logo=trello&logoColor=4CAF50)
 ![Scrum](https://img.shields.io/badge/Scrum-003300?style=for-the-badge&logo=scrumalliance&logoColor=4CAF50)
@@ -154,11 +159,5 @@ Some of the key topics I’m focusing on include:
 [![Steph7478's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
-</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer" />
