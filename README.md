@@ -2,7 +2,7 @@
 <h3 align="center">
 <img
   width="100%"
-  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Backend+Developer."
+  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Backend+Developer.;I'm+in+love+with+Java."
   alt="typing-banner"
 />
   <br>
