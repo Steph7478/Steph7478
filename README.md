@@ -143,7 +143,6 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/status.gif" width="300px" />
 </p>
 
-<br>
 
 <div align="center">
   <img 
