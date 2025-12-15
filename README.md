@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header" />
 <h3 align="center">
 <img
-  width="100%"
-  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Backend+Developer.;I'm+in+love+with+Java."
-  alt="typing-banner"
+  width="100%"
+  src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=38&pause=1000&color=00FF00&center=true&vCenter=true&width=1100&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Backend+Developer.;I'm+in+love+with+Java."
+  alt="typing-banner"
 />
-  <br>
+  <br>
 </h3>
 <br>
 
@@ -31,29 +31,29 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 <br>
 
-### 🌱 What I'm Currently Learning  
-
-In my current project, I’m diving deeper into **security, architecture, and backend design** using **DDD + Clean Architecture**.  
-Some of the key topics I’m focusing on include:  
-
-- 🔐 **Custom policies & permissions** · managing public and private routes with role-based access (`ADMIN`, `USER`, `PUBLIC`) and dynamic CORS integration.  
-- 🔄 **Layer mappers** · creating clear mappings between entities, DTOs, and responses to ensure proper separation of concerns.  
-- 🛡️ **Advanced authentication & authorization** · implementing **OAuth**, **RSA tokens with padding**, and fine-grained role/permission management at the endpoint level.  
-- ⚡ **Custom exceptions & aspects (AOP)** · centralized error handling, logging, and validation powered by cross-cutting concerns.  
-- 🧩 **Custom annotations** · adding domain-specific rules and security constraints directly through annotations for better readability and maintainability.  
-- ⚙️ **Caching strategies** · applying cache techniques to improve performance and scalability in backend systems.  
-
-✨ This project is helping me strengthen my skills in building **robust, secure, and scalable backends**, while following **Clean Code, SOLID principles, and domain-driven design practices**.
+[![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-steph7478-%23009900?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/steph7478/)  
+[![Email](https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gurgeldev@outlook.de)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black)](https://gurgeldev.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gurgel-dev/)
 
 <br>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-steph7478-%23009900?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/steph7478/)  
-[![Email](https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gurgeldev@outlook.de)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black)](https://gurgeldev.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gurgel-dev/)
+### ❇️ Featured Project: Lumière Backend
 
-</p>
+This e-commerce core API is my current focus, serving as a dedicated project to master **advanced architectural and performance patterns** using Java and Spring Boot.
+
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Architecture** | **Clean Architecture** + **Domain-Driven Design (DDD)** for strict separation of concerns. |
+| **Client Design** | **Backend for Frontend (BFF)** pattern to simplify interactions for UI clients. |
+| **Security** | Advanced authentication using **JWT with RSA asymmetric cryptography** and fine-grained authorization (`@RequireAdmin`). |
+| **Performance** | **Distributed Caching (Redis)**, **AOP-based Rate Limiting**, and Image Optimization. |
+| **Data Optimization** | JPA performance tuning with **N+1 prevention** via **`@EntityGraph`** and strategic SQL indexing. |
+| **Cloud-Native** | Storage implementation using the **official AWS S3 SDK** for compatibility with MinIO/AWS S3. |
+| **Integrations** | Resilient payment processing via **Stripe** with robust Webhook handlers. |
+
+📌 **View the code and detailed README:** [https://github.com/Steph7478/Lumiere-Backend](https://github.com/Steph7478/Lumiere-Backend)
 
 <br>
 
@@ -64,7 +64,7 @@ Some of the key topics I’m focusing on include:
 <br>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.png" width="35%" align="right" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.png" width="35%" align="right" />
 </p>
 
 <div align="left" >
@@ -99,10 +99,12 @@ Some of the key topics I’m focusing on include:
 ![Pandas](https://img.shields.io/badge/Pandas-003300?style=for-the-badge&logo=pandas&logoColor=4CAF50)
 ![MongoDB](https://img.shields.io/badge/MongoDB-003300?style=for-the-badge&logo=mongodb&logoColor=4CAF50)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
+![Redis](https://img.shields.io/badge/Redis-003300?style=for-the-badge&logo=redis&logoColor=4CAF50)
 ![JWT](https://img.shields.io/badge/JWT-003300?style=for-the-badge&logo=jsonwebtokens&logoColor=4CAF50)
 ![Swagger](https://img.shields.io/badge/Swagger-003300?style=for-the-badge&logo=swagger&logoColor=66BB6A)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-003300?style=for-the-badge&logo=asp.net&logoColor=4CAF50)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-003300?style=for-the-badge&logo=entity-framework&logoColor=4CAF50)
+
 
 ### 🟩 **Tools**
 
@@ -112,6 +114,8 @@ Some of the key topics I’m focusing on include:
 ![VS Code](https://img.shields.io/badge/VS_Code-003300?style=for-the-badge&logo=visual-studio-code&logoColor=4CAF50)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-003300?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![Stripe](https://img.shields.io/badge/Stripe-003300?style=for-the-badge&logo=stripe&logoColor=4CAF50)
+![AWS S3 SDK](https://img.shields.io/badge/AWS_S3_SDK-003300?style=for-the-badge&logo=amazonaws&logoColor=4CAF50)
+![MinIO](https://img.shields.io/badge/MinIO-003300?style=for-the-badge&logo=minio&logoColor=4CAF50)
 ![Vitest](https://img.shields.io/badge/Vitest-003300?style=for-the-badge&logo=vitest&logoColor=4CAF50)
 ![Jest](https://img.shields.io/badge/Jest-003300?style=for-the-badge&logo=jest&logoColor=4CAF50)
 ![JUnit](https://img.shields.io/badge/JUnit-003300?style=for-the-badge&logo=junit5&logoColor=4CAF50)
@@ -136,23 +140,23 @@ Some of the key topics I’m focusing on include:
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/status.gif" width="300px" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/status.gif" width="300px" />
 </p>
 
 <br>
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&sideNums=00FF00" 
-    width="440px" 
-    alt="GitHub Streak"
-  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&sideNums=00FF00" 
+    width="440px" 
+    alt="GitHub Streak"
+  />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/wakatime.png" width="700px" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/wakatime.png" width="700px" />
 </p>
 
 
