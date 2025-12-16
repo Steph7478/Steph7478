@@ -7,16 +7,18 @@
   />
 </h3>
 
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
 <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/About_me.gif" width="180px" />
-<br>
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=ABOUT+ME&fontSize=30&fontColor=00FF00"
+    alt="ABOUT ME"
+  />
+</h3>
 
 ### 🟢 Introduction
 
@@ -42,7 +44,12 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
-<br>
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=00FF00"
+    alt="RELEVANT PROJECTS"
+  />
+</h3>
 
 ### ❇️ Featured Project: Lumière Backend
 
@@ -66,12 +73,16 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
-<br>
-<img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/Technologies.gif" width="250px" align="left" />
-<br>
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=TECHNOLOGIES&fontSize=30&fontColor=00FF00"
+    alt="TECHNOLOGIES"
+  />
+</h3>
+
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.png" width="35%" align="right" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/cat.png" width="35%" align="right" />
 </p>
 
 <div align="left" >
@@ -144,25 +155,25 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/status.gif" width="300px" />
-</p>
-
+<h3 align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=GITHUB+STATUS&fontSize=30&fontColor=00FF00"
+    alt="GITHUB STATUS"
+  />
+</h3>
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&sideNums=00FF00" 
-    width="440px" 
-    alt="GitHub Streak"
-  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&sideNums=00FF00" 
+    width="440px" 
+    alt="GitHub Streak"
+  />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/wakatime.png" width="700px" />
+  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/wakatime.png" width="700px" />
 </p>
 
 
