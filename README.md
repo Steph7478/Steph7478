@@ -20,8 +20,6 @@
 
 I’m a backend developer specialized in **Java** and **Spring Boot**, with a strong focus on designing **secure**, **scalable**, and **maintainable APIs**. I follow best practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are **robust** and easy to extend.
 
-I have solid experience in **API security**, including **JWT with HttpOnly cookies**, **rate limiting**, **brute-force protection**, and **NoSQL injection prevention**. I also work with **Dockerized environments** and have hands-on experience with both **relational databases (PostgreSQL)** and **NoSQL databases (MongoDB)**.
-
 My main stack is **Java + Spring Boot**, and my second stack is **C# + ASP.NET Core**, giving me versatility to work in both **Java** and **.NET ecosystems**. I also work with **Python/Django** and **Node.js/Express.js**, especially for building **RESTful APIs** and integrating external services.
 
 On the frontend side, I have experience with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, which helps me collaborate effectively in cross-functional teams and better understand the connection between **frontend** and **backend**.
@@ -54,6 +52,7 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 | Concept | Implementation Detail |
 | :--- | :--- |
 | **Architecture** | **Clean Architecture** + **Domain-Driven Design (DDD)** for strict separation of concerns. |
+| **API Documentation** | **OpenAPI / Swagger UI**: Generates interactive, self-documenting API interface from code annotations. |
 | **Client Design** | **Backend for Frontend (BFF)** pattern to simplify interactions for UI clients. |
 | **Security** | Advanced authentication using **JWT with RSA asymmetric cryptography** and fine-grained authorization (`@RequireAdmin`). |
 | **Performance** | **Distributed Caching (Redis)**, **AOP-based Rate Limiting**, and Image Optimization. |
