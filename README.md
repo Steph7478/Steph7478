@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/About_me.gif" width="180px" />
 <br>
 
-## 🟢 Introduction
+### 🟢 Introduction
 
 I’m a backend developer specialized in **Java** and **Spring Boot**, with a strong focus on designing **secure**, **scalable**, and **maintainable APIs**. I follow best practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are **robust** and easy to extend.
 
@@ -40,7 +40,11 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 <br>
 
-## ❇️ Featured Project: Lumière Backend
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
+
+<br>
+
+### ❇️ Featured Project: Lumière Backend
 
 This e-commerce core API is my current focus, serving as a dedicated project to master **advanced architectural and performance patterns** using Java and Spring Boot.
 
