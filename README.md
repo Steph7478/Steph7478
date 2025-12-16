@@ -7,11 +7,7 @@
   />
 </h3>
 
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
-
-<br>
 
 <h3 align="center">
   <img
