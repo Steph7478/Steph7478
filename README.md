@@ -157,16 +157,6 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
   />
 </h3>
 
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Steph7478&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&sideNums=00FF00" 
-    width="440px" 
-    alt="GitHub Streak"
-  />
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/main/.github/wakatime.png" width="700px" />
 </p>
