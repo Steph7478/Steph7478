@@ -52,13 +52,13 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 | Concept | Implementation Detail |
 | :--- | :--- |
 | **Architecture** | **Clean Architecture** + **Domain-Driven Design (DDD)** for strict separation of concerns. |
-| **API Documentation** | **OpenAPI / Swagger UI**: Generates interactive, self-documenting API interface from code annotations. |
+| **API Documentation** | **OpenAPI / Swagger UI**: Generates interactive, self-documenting API interface. |
 | **Client Design** | **Backend for Frontend (BFF)** pattern to simplify interactions for UI clients. |
 | **Security** | Advanced authentication using **JWT with RSA asymmetric cryptography** and fine-grained authorization (`@RequireAdmin`). |
-| **Performance** | **Distributed Caching (Redis)**, **AOP-based Rate Limiting**, and Image Optimization. |
+| **Performance** | **Dual-Strategy Caching**: **HTTP Caching** for public routes and **Distributed Caching (Redis)** for private data. |
 | **Resilience** | **Circuit Breaker (Resilience4j)** and Retry on Stripe checkout for fault tolerance. |
 | **Scalability/Concurrency** | **Reactive Asynchronicity (Project Reactor/Mono)** on checkout to prevent thread blocking. |
-| **Data Optimization** | **Hybrid Pagination (PostgreSQL/MongoDB)**: Combines and filters paginated data (e.g., product listing) split across relational (PostgreSQL) and NoSQL (MongoDB) stores. Also features JPA performance tuning and **N+1 prevention** via **`@EntityGraph`**. |
+| **Data Optimization** | **Hybrid Pagination (PostgreSQL/MongoDB)** with JPA performance tuning and **N+1 prevention** via **`@EntityGraph`**. |
 | **Cloud-Native** | Storage implementation using the **official AWS S3 SDK** for compatibility with MinIO/AWS S3. |
 | **Integrations** | Resilient payment processing via **Stripe** with robust Webhook handlers. |
 
