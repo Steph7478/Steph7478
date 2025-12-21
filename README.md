@@ -166,8 +166,5 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg" width="100%" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer" />
