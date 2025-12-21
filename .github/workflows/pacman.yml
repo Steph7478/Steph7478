@@ -5,23 +5,31 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          node-version: '20'
+      - name: Generate pacman-contribution-graph.svg
+        run: |
+          npx github-contribution-pacman \
+            --username ${{ github.repository_owner }} \
+            --output dist/pacman-contribution-graph.svg \
+            --transparent
+
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        name: push pacman-contribution-graph.svg to the output branch
+        name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
           target_branch: output
-    timeout-minutes: 5
-name: Generate pacman animation
+name: Generate Pacman Contribution Graph
 'on':
   push:
     branches:
       - main
   schedule:
-    - cron: '* */12 * * *'
+    - cron: '*/12 * * * *'
   workflow_dispatch: null
