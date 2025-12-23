@@ -106,6 +106,9 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 ### 🐍 **Backend & Data**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
+![Spring WebSocket](https://img.shields.io/badge/Spring_WebSocket-003300?style=for-the-badge&logo=spring&logoColor=4CAF50)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-003300?style=for-the-badge&logo=spring&logoColor=4CAF50)
+![Spring Security](https://img.shields.io/badge/Spring_Security-003300?style=for-the-badge&logo=spring&logoColor=4CAF50)
 ![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge&logo=node.js&logoColor=4CAF50)
 ![Express.js](https://img.shields.io/badge/Express.js-003300?style=for-the-badge&logo=express&logoColor=4CAF50)
 ![Django](https://img.shields.io/badge/Django-003300?style=for-the-badge&logo=django&logoColor=4CAF50)
@@ -145,6 +148,7 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 ### 🍃 **APIs**
 
 ![REST API](https://img.shields.io/badge/REST_API-003300?style=for-the-badge&logo=api&logoColor=4CAF50)
+![WebSocket](https://img.shields.io/badge/WebSocket-003300?style=for-the-badge&logo=websocket&logoColor=4CAF50)
 
 </div>
 
