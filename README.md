@@ -70,6 +70,36 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 
 <h3 align="center">
   <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=WHAT+I'M+CURRENTLY+LEARNING&fontSize=30&fontColor=00FF00"
+    alt="WHAT I'M CURRENTLY LEARNING"
+  />
+</h3>
+
+### 🔹 WebSockets with Spring WebFlux & Security Hardening
+
+I’m currently focusing on **building secure, real-time applications** using **WebSockets** on **Spring WebFlux**, with emphasis on **Zero Trust** and **advanced security hardening**.  
+
+| Topic | Focus |
+| :--- | :--- |
+| **Reactive WebSockets** | Implementing **real-time bidirectional communication** using **Mono** and **Flux**. |
+| **Authentication & Tokens** | **Asymmetric JWT (RS256)**, **BFF pattern**, **military-grade cookies**, **refresh token rotation**, **key rotation**, **silent JWT refresh**. |
+| **Session & Anti-Hijacking** | **Cryptographic fingerprinting**, **strict session binding**, **multi-session registry**, **alerts on session inconsistency**, **rigorous cleanup**. |
+| **WebSocket Security** | **Handshake validation**, **WSS only**, **contextual messaging**, **idle timeout**, **heartbeat monitoring**. |
+| **Data Integrity** | **Immutable DTOs**, **secure JSON parsing**, **schema validation**, **global sanitization**, **E2EE (Signal Protocol / Double Ratchet)**. |
+| **Active Defense** | **Rate limiting**, **anti-brute force**, **circuit breakers**, **HSTS**. |
+| **Audit & Monitoring** | **Audit logs**, **PII masking**, **anomaly detection**, **session tracing**. |
+
+📌 **Resources & Learning Materials:**  
+- [Spring WebFlux Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)  
+- [Project Reactor Reference](https://projectreactor.io/docs/core/release/reference/)  
+
+<br>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
+
+<h3 align="center">
+  <img
     src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=TECHNOLOGIES&fontSize=30&fontColor=00FF00"
     alt="TECHNOLOGIES"
   />
