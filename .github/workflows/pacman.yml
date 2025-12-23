@@ -1,4 +1,12 @@
----
+name: Generate Pacman Contribution Graph
+'on':
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
 jobs:
   generate:
     permissions:
@@ -7,29 +15,30 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
+
       - name: Generate pacman-contribution-graph.svg
         run: |
+          mkdir -p dist
           npx github-contribution-pacman \
             --username ${{ github.repository_owner }} \
             --output dist/pacman-contribution-graph.svg \
             --transparent
 
-      - env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/pacman-contribution-graph.svg
+          git diff --cached --quiet || git commit -m "Update pacman graph"
+
+      - name: Push changes
+        if: success() && steps.commit_changes.outcome != 'skipped'
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          build_dir: dist
-          target_branch: output
-name: Generate Pacman Contribution Graph
-'on':
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '*/12 * * * *'
-  workflow_dispatch: null
+          branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
