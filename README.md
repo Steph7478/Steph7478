@@ -57,7 +57,7 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
 | **Security** | Advanced authentication using **JWT with RSA asymmetric cryptography** and fine-grained authorization (`@RequireAdmin`). |
 | **Performance** | **Dual-Strategy Caching**: **HTTP Caching** for public routes and **Distributed Caching (Redis)** for private data. |
 | **Resilience** | **Circuit Breaker (Resilience4j)** and Retry on Stripe checkout for fault tolerance. |
-| **Scalability/Concurrency** | **Reactive Asynchronicity (Project Reactor/Mono)** on checkout to prevent thread blocking. |
+| **Concurrency** | **Reactive Asynchronicity (Project Reactor/Mono)** on checkout to prevent thread blocking. |
 | **Data Optimization** | **Hybrid Pagination (PostgreSQL/MongoDB)** with JPA performance tuning and **N+1 prevention** via **`@EntityGraph`**. |
 | **Cloud-Native** | Storage implementation using the **official AWS S3 SDK** for compatibility with MinIO/AWS S3. |
 | **Integrations** | Resilient payment processing via **Stripe** with robust Webhook handlers. |
