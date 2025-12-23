@@ -1,11 +1,12 @@
-name: Generate Pacman Contribution Graph
-'on':
+name: generate pacman game
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -14,15 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          node-version: '20'
-
-      - name: Generate pacman-contribution-graph.svg
-        run: |
-          mkdir -p dist
-          npx github-contribution-pacman \
-            --username ${{ github.repository_owner }} \
-            --output dist/pacman-contribution-graph.svg \
-            --transparent
+          github_user_name: ${{ github.repository_owner }}
