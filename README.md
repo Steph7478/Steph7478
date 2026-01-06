@@ -22,16 +22,16 @@ I’m a backend developer specialized in **Java** and **Spring Boot**, with a st
 
 My main stack is **Java + Spring Boot**, and my second stack is **C# + ASP.NET Core**, giving me versatility to work in both **Java** and **.NET ecosystems**. I also work with **Python/Django** and **Node.js/Express.js**, especially for building **RESTful APIs** and integrating external services.
 
-On the frontend side, I have experience with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, which helps me collaborate effectively in cross-functional teams and better understand the connection between **frontend** and **backend**.
+On the frontend side, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, which helps me collaborate effectively in cross-functional teams and better understand the connection between **frontend** and **backend**.
 
 I’m fluent in **Portuguese** and have advanced proficiency in **English**, **German**, and **Italian**. I’m constantly **learning**, **experimenting**, and **refining my skills** to build **backend systems** that are **clean**, **efficient**, and aligned with **modern standards**.
 
 <br>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-steph7478-%23009900?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/steph7478/)  
-[![Email](https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gurgeldev@outlook.de)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black)](https://gurgeldev.vercel.app/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-gurgeldev-%23009900?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/gurgeldev)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-steph7478-%23009900?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/steph7478/)  
+[![Email](https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gurgeldev@outlook.de)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black)](https://gurgeldev.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gurgel-dev/)
 
 <br>
@@ -89,8 +89,7 @@ I’m currently focusing on **building secure, real-time applications** using **
 | **Active Defense** | **Rate limiting**, **anti-brute force**, **circuit breakers**, **HSTS**. |
 | **Audit & Monitoring** | **Audit logs**, **PII masking**, **anomaly detection**, **session tracing**. |
 
-📌 **Resources & Learning Materials:**  
-- [Spring WebFlux Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)  
+📌 **Resources & Learning Materials:** - [Spring WebFlux Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)  
 - [Project Reactor Reference](https://projectreactor.io/docs/core/release/reference/)  
 
 <br>
@@ -124,6 +123,8 @@ I’m currently focusing on **building secure, real-time applications** using **
 
 ![HTML5](https://img.shields.io/badge/HTML5-003300?style=for-the-badge&logo=html5&logoColor=4CAF50)
 ![CSS3](https://img.shields.io/badge/CSS3-003300?style=for-the-badge&logo=css3&logoColor=4CAF50)
+![Angular](https://img.shields.io/badge/Angular-003300?style=for-the-badge&logo=angular&logoColor=4CAF50)
+![RxJS](https://img.shields.io/badge/RxJS-003300?style=for-the-badge&logo=reactivex&logoColor=4CAF50)
 ![React](https://img.shields.io/badge/React-003300?style=for-the-badge&logo=react&logoColor=4CAF50)
 ![Next.js](https://img.shields.io/badge/Next.js-003300?style=for-the-badge&logo=next.js&logoColor=4CAF50)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-003300?style=for-the-badge&logo=tailwind-css&logoColor=4CAF50)
