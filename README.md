@@ -75,23 +75,19 @@ This e-commerce core API is my current focus, serving as a dedicated project to 
   />
 </h3>
 
-### 🔹 WebSockets with Spring WebFlux & Security Hardening
+### 🔹 Distributed Systems & Cloud Native Architecture
 
-I’m currently focusing on **building secure, real-time applications** using **WebSockets** on **Spring WebFlux**, with emphasis on **Zero Trust** and **advanced security hardening**.  
+I am currently leveling up my backend expertise by diving deep into **Cloud Native** patterns and **Distributed Systems** to build high-scale, resilient infrastructures.
 
 | Topic | Focus |
 | :--- | :--- |
-| **Reactive WebSockets** | Implementing **real-time bidirectional communication** using **Mono** and **Flux**. |
-| **Authentication & Tokens** | **Asymmetric JWT (RS256)**, **BFF pattern**, **military-grade cookies**, **refresh token rotation**, **key rotation**, **silent JWT refresh**. |
-| **Session & Anti-Hijacking** | **Cryptographic fingerprinting**, **strict session binding**, **multi-session registry**, **alerts on session inconsistency**, **rigorous cleanup**. |
-| **WebSocket Security** | **Handshake validation**, **WSS only**, **contextual messaging**, **idle timeout**, **heartbeat monitoring**. |
-| **Data Integrity** | **Immutable DTOs**, **secure JSON parsing**, **schema validation**, **global sanitization**, **E2EE (Signal Protocol / Double Ratchet)**. |
-| **Active Defense** | **Rate limiting**, **anti-brute force**, **circuit breakers**, **HSTS**. |
-| **Audit & Monitoring** | **Audit logs**, **PII masking**, **anomaly detection**, **session tracing**. |
+| **Orchestration** | **Kubernetes (K8s)**: Container orchestration, service discovery, and automated scaling. |
+| **Messaging** | **Apache Kafka**: Building event-driven architectures and real-time data streaming. |
+| **Microservices** | **Microservices Architecture**: Service decomposition, inter-service communication, and shared data patterns. |
+| **API Patterns** | **GraphQL & gRPC**: Implementing flexible queries and high-performance, low-latency RPC communication. |
+| **Gateway** | **API Gateway**: Centralizing authentication, rate limiting, and request routing for microservices. |
 
-📌 **Resources & Learning Materials:** - [Spring WebFlux Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)  
-- [Project Reactor Reference](https://projectreactor.io/docs/core/release/reference/)  
-
+📌 Current Goal: Build and understand distributed, event-driven architectures with Spring Cloud, Kafka, and Kubernetes, applying microservices, messaging, and gateway patterns.
 <br>
 
 
