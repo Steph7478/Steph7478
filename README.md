@@ -165,19 +165,19 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <td align="center" valign="middle" width="40%">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&langs_count=5&layout=donut&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" />
-      </td>
       <td align="center" valign="middle" width="60%">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img 
-            src="https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true&width=400&height=250&days=7" />
-        </a>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&langs_count=8&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" 
+          width="100%" />
+      </td>
+      <td align="center" valign="middle" width="40%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80%" />
       </td>
     </tr>
   </table>
 </div>
+
+
 
 <br>
 
