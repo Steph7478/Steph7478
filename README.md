@@ -153,22 +153,11 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
   />
 </h3>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td align="center" valign="middle" width="60%">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&langs_count=8&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" 
-          width="100%" />
-      </td>
-      <td align="center" valign="middle" width="40%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steph7478&theme=blue_green" height="250" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steph7478&theme=blue_green" height="250" align="middle" />
+</p>
 
 <br>
 
