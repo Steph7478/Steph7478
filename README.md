@@ -183,6 +183,8 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
   </table>
 </div>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph.svg">
