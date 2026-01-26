@@ -42,19 +42,10 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
   />
 </h3>
 
-<table>
-<tr>
-<td width="500">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=Lumiere-backend&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" 
-    width="640" 
-  />
-</td>
-<td width="500">
-  Production-ready <b>e-commerce core API</b> built with <b>Java + Spring Boot</b>, focused on <b>clean architecture</b>, <b>security</b>, and <b>high-performance backend design</b>.
-</td>
-</tr>
-</table>
+| Project | Description |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=Lumiere-backend&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="1000"/> | <br>**Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**.<br><br>Additional features: **JWT auth**, **Redis caching**, **Stripe integration**, **Resilience4j**, **Reactive checkout**, **HTTP caching**, **EntityGraph optimization**, **AWS S3 storage**.<br><br><br> |
+
 
 <details>
 <summary><b>Read more</b></summary>
