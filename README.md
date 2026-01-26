@@ -154,12 +154,13 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
 </h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steph7478&theme=blue_green" height="250" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steph7478&theme=blue_green" height="250" align="middle" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steph7478&theme=blue_green" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Steph7478&theme=blue_green" width="30%" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steph7478&theme=blue_green" width="60.5%" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
