@@ -13,9 +13,10 @@
   />
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=donut-vertical&langs_count=6&theme=radical&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="300" align="right" />
+I’m a backend developer specialized in **Java** and **Spring Boot**, with a strong focus on designing **secure**, **scalable**, and **maintainable APIs**. I follow best
+practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are **robust** and easy to extend.
 
-I’m a backend developer specialized in **Java** and **Spring Boot**, with a strong focus on designing **secure**, **scalable**, and **maintainable APIs**. I follow best practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are **robust** and easy to extend.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=donut&langs_count=5&theme=radical&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="380" align="right" />
 
 My main stack is **Java + Spring Boot**, and my second stack is **C# + ASP.NET Core**, giving me versatility to work in both **Java** and **.NET ecosystems**. I also work with **Python/Django** and **Node.js/Express.js**, especially for building **RESTful APIs** and integrating external services.
 
