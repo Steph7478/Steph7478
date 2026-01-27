@@ -152,22 +152,15 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
     alt="GITHUB STATUS"
   />
 </h3>
-<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center" valign="middle" width="25%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&langs_count=5&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true&hide_title=true&font_size=24"
-        height="210"
-      />
-    </td>
-    <td align="center" valign="middle" width="75%">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true" 
-        height="420" 
-      />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true&custom_title=My%20Activity%20Graph"
+    width="100%"
+  />
+</p>
+
+
 <br>
 
 <picture>
