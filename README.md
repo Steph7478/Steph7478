@@ -13,7 +13,7 @@
   />
 </h3>
 
-### 🟢 Introduction
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=donut-vertical&langs_count=6&theme=radical&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="300" align="right" />
 
 I’m a backend developer specialized in **Java** and **Spring Boot**, with a strong focus on designing **secure**, **scalable**, and **maintainable APIs**. I follow best practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are **robust** and easy to extend.
 
@@ -23,15 +23,7 @@ On the frontend side, I have experience with **Angular**, **RxJS**, **React**, *
 
 I’m fluent in **Portuguese** and have advanced proficiency in **English**, **German**, and **Italian**. I’m constantly **learning**, **experimenting**, and **refining my skills** to build **backend systems** that are **clean**, **efficient**, and aligned with **modern standards**.
 
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gurgel-dev/"><img src="https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:gurgeldev@outlook.de"><img src="https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://gurgeldev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-</p>
-
-<br>
+<br clear="right">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
@@ -144,24 +136,24 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
 
 </div>
 
+<br> 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
 <h3 align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=GITHUB+STATUS&fontSize=30&fontColor=00FF00"
-    alt="GITHUB STATUS"
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=CONTACT+ME&fontSize=30&fontColor=00FF00"
+    alt="CONTACT ME"
   />
 </h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Steph7478&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true&custom_title=My%20Activity%20Graph"
-    width="100%"
-  />
+  <a href="https://www.linkedin.com/in/gurgel-dev/"><img src="https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:gurgeldev@outlook.de"><img src="https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://gurgeldev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
-
-<br>
+<br> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
