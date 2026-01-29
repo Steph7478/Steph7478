@@ -39,28 +39,64 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 | :--- | :--- |
 | <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=Lumiere-backend&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**. |
 
-
 <details>
-<summary><b>Read more</b></summary>
+<summary><b>🟢 Read more (Backend Design)</b></summary>
 
 <br>
 
 | Concept | Implementation Detail |
 | :--- | :--- |
 | **Architecture** | **Clean Architecture** + **Domain-Driven Design (DDD)** |
-| **API Documentation** | **OpenAPI / Swagger UI** |
-| **Client Design** | **Backend for Frontend (BFF)** |
-| **Security** | **JWT with RSA asymmetric cryptography** and fine-grained authorization (`@RequireAdmin`) |
-| **Performance** | **HTTP caching** + **Redis distributed cache** |
-| **Resilience** | **Resilience4j** (Circuit Breaker & Retry) |
-| **Concurrency** | **Reactive checkout** using **Project Reactor (Mono)** |
-| **Data Optimization** | Hybrid pagination + **N+1 prevention** via `@EntityGraph` |
-| **Cloud-Native** | **AWS S3 SDK** (MinIO compatible) |
-| **Integrations** | **Stripe** with resilient webhook handling |
+| **Performance** | **Redis Distributed Cache** + HTTP Caching |
+| **Persistence** | **PostgreSQL** with N+1 prevention via `@EntityGraph` |
+| **Cloud** | **AWS S3** for media storage & **Stripe** for payment integration |
+| **Reliability** | **Resilience4j** (Circuit Breaker) + TDD approach |
 
 </details>
 
+<br>
 
+| Project | Description |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=chat-websocket&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography** to ensure secure real-time communication. |
+
+<details>
+<summary><b>🟢 Read more (Security Hardening)</b></summary>
+
+<br>
+
+| Feature | Implementation Detail |
+| :--- | :--- |
+| **Reactive Core** | **Project Reactor** (Non-blocking chat handler pipelines) |
+| **Auth** | **RS256 JWT** (RSA Asymmetric Signing) with **Rotation Scheduler** |
+| **Anti-Hijacking** | **Cryptographic Fingerprinting** (SHA-256) bound to session metadata |
+| **BFF Pattern** | **Backend-for-Frontend** with HttpOnly/Secure/Strict cookies |
+| **WebSocket** | Secure Handshake validation + **Ghost Socket** cleanup (Heartbeats) |
+| **Resilience** | **Redis-backed Rate Limiting** + Global Payload Sanitization |
+
+</details>
+
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=PC-Sentinel&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline that delivers hardware metrics via **GraphQL Subscriptions** in a **Kubernetes** cluster. |
+
+<details>
+<summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
+
+<br>
+
+| Concept | Implementation Detail |
+| :--- | :--- |
+| **Messaging** | **Apache Kafka** (Metrics ingestion & decoupling) |
+| **RPC** | **gRPC Bi-directional Streaming** (Binary serialized OS data) |
+| **API Layer** | **GraphQL + WebSockets (Subscriptions)** for real-time UI updates |
+| **Gateway** | **Spring Cloud Gateway** for unified routing & service discovery |
+| **Infrastructure** | **Kubernetes (k3d)** + **Docker** (Full-cycle orchestration) |
+| **Data Source** | **OSHI API** for native hardware/processor metrics collection |
+
+</details>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
