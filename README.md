@@ -34,7 +34,7 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/Lumiere-backend">![**LUMIERE**](https://img.shields.io/badge/LUMIERE-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=15)</a><br>![**Java**](https://img.shields.io/badge/Java-002200?style=for-the-badge&logo=java&logoColor=2ECC71&logoWidth=15) ![**Spring**](https://img.shields.io/badge/Spring-002200?style=for-the-badge&logo=springboot&logoColor=2ECC71&logoWidth=15) ![**DDD**](https://img.shields.io/badge/DDD-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=15) | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**. |
+| <a href="https://github.com/Steph7478/Lumiere-backend">![**LUMIERE**](https://img.shields.io/badge/LUMIERE-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Java**](https://img.shields.io/badge/Java-002200?style=for-the-badge&logo=java&logoColor=2ECC71&logoWidth=5) ![**Spring**](https://img.shields.io/badge/Spring-002200?style=for-the-badge&logo=springboot&logoColor=2ECC71&logoWidth=5) ![**DDD**](https://img.shields.io/badge/DDD-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**Redis**](https://img.shields.io/badge/Redis-002200?style=for-the-badge&logo=redis&logoColor=2ECC71&logoWidth=5) | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**. |
 
 <details>
 <summary><b>🟢 Read more (Backend Design)</b></summary>
@@ -48,9 +48,11 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 | **Reliability** | **Resilience4j (Circuit Breaker) + TDD approach** |
 </details>
 
+<br>
+
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/chat-websocket">![**CHAT**](https://img.shields.io/badge/CHAT-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=15)</a><br>![**WebFlux**](https://img.shields.io/badge/WebFlux-002200?style=for-the-badge&logo=spring&logoColor=2ECC71&logoWidth=15) ![**Security**](https://img.shields.io/badge/Security-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=15) ![**WebSockets**](https://img.shields.io/badge/WebSockets-002200?style=for-the-badge&logo=socket.io&logoColor=2ECC71&logoWidth=15) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**. |
+| <a href="https://github.com/Steph7478/chat-websocket">![**CHAT**](https://img.shields.io/badge/CHAT-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**WebFlux**](https://img.shields.io/badge/WebFlux-002200?style=for-the-badge&logo=spring&logoColor=2ECC71&logoWidth=5) ![**Security**](https://img.shields.io/badge/Security-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**WebSockets**](https://img.shields.io/badge/WebSockets-002200?style=for-the-badge&logo=socket.io&logoColor=2ECC71&logoWidth=5) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**. |
 
 <details>
 <summary><b>🟢 Read more (Security Hardening)</b></summary>
@@ -65,9 +67,11 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 | **Resilience** | **Redis-backed Rate Limiting + Global Payload Sanitization** |
 </details>
 
+<br>
+
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/PC-Sentinel">![**SENTINEL**](https://img.shields.io/badge/SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=15)</a><br>![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=15) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=15) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=15) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=15) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**. |
+| <a href="https://github.com/Steph7478/PC-Sentinel">![**SENTINEL**](https://img.shields.io/badge/SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=5) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=5) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=5) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=5) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**. |
 
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
@@ -80,7 +84,6 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 | **Gateway** | **Spring Cloud Gateway for unified routing & service discovery** |
 | **Infrastructure** | **Kubernetes (k3d) + Docker (Full-cycle orchestration)** |
 </details>
-
 
 <br>
 
