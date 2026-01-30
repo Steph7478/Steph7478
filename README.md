@@ -58,7 +58,7 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/chat-websocket">![Chat](https://img.shields.io/badge/PROJECT-CHAT_WEBSOCKET-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![WebFlux](https://img.shields.io/badge/WebFlux-002200?style=flat-square&logo=spring&logoColor=2ECC71) ![Security](https://img.shields.io/badge/Security-002200?style=flat-square&logoColor=2ECC71) ![JWT](https://img.shields.io/badge/JWT-002200?style=flat-square&logoColor=2ECC71) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**. |
+| <a href="https://github.com/Steph7478/chat-websocket">![Chat](https://img.shields.io/badge/PROJECT-CHAT_WEBSOCKET-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![WebFlux](https://img.shields.io/badge/WebFlux-002200?style=flat-square&logo=spring&logoColor=2ECC71) ![Security](https://img.shields.io/badge/Security-002200?style=flat-square&logoColor=2ECC71) ![WebSockets](https://img.shields.io/badge/WebSockets-002200?style=flat-square&logo=socket.io&logoColor=2ECC71) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**. |
 
 <details>
 <summary><b>🟢 Read more (Security Hardening)</b></summary>
@@ -96,6 +96,7 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 | **Infrastructure** | **Kubernetes (k3d)** + **Docker** (Full-cycle orchestration) |
 
 </details>
+
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
