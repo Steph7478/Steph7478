@@ -80,7 +80,7 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/PC-Sentinel">![Sentinel](https://img.shields.io/badge/PROJECT-PC_SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![Kafka](https://img.shields.io/badge/Kafka-002200?style=flat-square&logo=apachekafka&logoColor=2ECC71) ![gRPC](https://img.shields.io/badge/gRPC-002200?style=flat-square&logo=google&logoColor=2ECC71) ![K8s](https://img.shields.io/badge/K8s-002200?style=flat-square&logoColor=2ECC71) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**. |
+| <a href="https://github.com/Steph7478/PC-Sentinel">![Sentinel](https://img.shields.io/badge/PROJECT-PC_SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![Kafka](https://img.shields.io/badge/Kafka-002200?style=flat-square&logo=apachekafka&logoColor=2ECC71) ![gRPC](https://img.shields.io/badge/gRPC-002200?style=flat-square&logo=google&logoColor=2ECC71) ![GraphQL](https://img.shields.io/badge/GraphQL-002200?style=flat-square&logo=graphql&logoColor=2ECC71) ![K8s](https://img.shields.io/badge/K8s-002200?style=flat-square&logoColor=2ECC71) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**. |
 
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
