@@ -29,73 +29,58 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
 <h3 align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=00FF00"
-    alt="RELEVANT PROJECTS"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=00FF00" alt="RELEVANT PROJECTS" />
 </h3>
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/Lumiere-backend">![Lumiere](https://img.shields.io/badge/PROJECT-LUMIERE_BACKEND-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![Java](https://img.shields.io/badge/Java-002200?style=flat-square&logo=java&logoColor=2ECC71) ![Spring](https://img.shields.io/badge/Spring-002200?style=flat-square&logo=springboot&logoColor=2ECC71) ![DDD](https://img.shields.io/badge/DDD-002200?style=flat-square&logoColor=2ECC71) | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**. |
+| <a href="https://github.com/Steph7478/Lumiere-backend">![**LUMIERE**](https://img.shields.io/badge/LUMIERE-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=15)</a><br>![**Java**](https://img.shields.io/badge/Java-002200?style=for-the-badge&logo=java&logoColor=2ECC71&logoWidth=15) ![**Spring**](https://img.shields.io/badge/Spring-002200?style=for-the-badge&logo=springboot&logoColor=2ECC71&logoWidth=15) ![**DDD**](https://img.shields.io/badge/DDD-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=15) | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**. |
 
 <details>
 <summary><b>🟢 Read more (Backend Design)</b></summary>
-
 <br>
-
 | Concept | Implementation Detail |
 | :--- | :--- |
-| **Architecture** | **Clean Architecture** + **Domain-Driven Design (DDD)** |
-| **Performance** | **Redis Distributed Cache** + HTTP Caching |
+| **Architecture** | **Clean Architecture + Domain-Driven Design (DDD)** |
+| **Performance** | **Redis Distributed Cache + HTTP Caching** |
 | **Persistence** | **PostgreSQL** with N+1 prevention via `@EntityGraph` |
 | **Cloud** | **AWS S3** for media storage & **Stripe** for payment integration |
-| **Reliability** | **Resilience4j** (Circuit Breaker) + TDD approach |
-
+| **Reliability** | **Resilience4j (Circuit Breaker) + TDD approach** |
 </details>
-
-<br>
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/chat-websocket">![Chat](https://img.shields.io/badge/PROJECT-CHAT_WEBSOCKET-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![WebFlux](https://img.shields.io/badge/WebFlux-002200?style=flat-square&logo=spring&logoColor=2ECC71) ![Security](https://img.shields.io/badge/Security-002200?style=flat-square&logoColor=2ECC71) ![WebSockets](https://img.shields.io/badge/WebSockets-002200?style=flat-square&logo=socket.io&logoColor=2ECC71) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**. |
+| <a href="https://github.com/Steph7478/chat-websocket">![**CHAT**](https://img.shields.io/badge/CHAT-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=15)</a><br>![**WebFlux**](https://img.shields.io/badge/WebFlux-002200?style=for-the-badge&logo=spring&logoColor=2ECC71&logoWidth=15) ![**Security**](https://img.shields.io/badge/Security-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=15) ![**WebSockets**](https://img.shields.io/badge/WebSockets-002200?style=for-the-badge&logo=socket.io&logoColor=2ECC71&logoWidth=15) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**. |
 
 <details>
 <summary><b>🟢 Read more (Security Hardening)</b></summary>
-
 <br>
-
 | Feature | Implementation Detail |
 | :--- | :--- |
-| **Reactive Core** | **Project Reactor** (Non-blocking chat handler pipelines) |
-| **Auth** | **RS256 JWT** (RSA Asymmetric Signing) with **Rotation Scheduler** |
-| **Anti-Hijacking** | **Cryptographic Fingerprinting** (SHA-256) bound to session metadata |
-| **BFF Pattern** | **Backend-for-Frontend** with HttpOnly/Secure/Strict cookies |
-| **WebSocket** | Secure Handshake validation + **Ghost Socket** cleanup (Heartbeats) |
-| **Resilience** | **Redis-backed Rate Limiting** + Global Payload Sanitization |
-
+| **Reactive Core** | **Project Reactor (Non-blocking chat handler pipelines)** |
+| **Auth** | **RS256 JWT (RSA Asymmetric Signing) with Rotation Scheduler** |
+| **Anti-Hijacking** | **Cryptographic Fingerprinting (SHA-256) bound to session metadata)** |
+| **BFF Pattern** | **Backend-for-Frontend with HttpOnly/Secure/Strict cookies** |
+| **WebSocket** | **Secure Handshake validation + Ghost Socket cleanup (Heartbeats)** |
+| **Resilience** | **Redis-backed Rate Limiting + Global Payload Sanitization** |
 </details>
-
-<br>
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/PC-Sentinel">![Sentinel](https://img.shields.io/badge/PROJECT-PC_SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![Kafka](https://img.shields.io/badge/Kafka-002200?style=flat-square&logo=apachekafka&logoColor=2ECC71) ![gRPC](https://img.shields.io/badge/gRPC-002200?style=flat-square&logo=google&logoColor=2ECC71) ![GraphQL](https://img.shields.io/badge/GraphQL-002200?style=flat-square&logo=graphql&logoColor=2ECC71) ![K8s](https://img.shields.io/badge/K8s-002200?style=flat-square&logoColor=2ECC71) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**. |
+| <a href="https://github.com/Steph7478/PC-Sentinel">![**SENTINEL**](https://img.shields.io/badge/SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=15)</a><br>![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=15) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=15) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=15) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=15) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**. |
 
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
-
 <br>
-
 | Concept | Implementation Detail |
 | :--- | :--- |
-| **Messaging** | **Apache Kafka** (Metrics ingestion & decoupling) |
-| **RPC** | **gRPC Bi-directional Streaming** (Binary serialized OS data) |
-| **API Layer** | **GraphQL + WebSockets (Subscriptions)** for real-time UI updates |
-| **Gateway** | **Spring Cloud Gateway** for unified routing & service discovery |
-| **Infrastructure** | **Kubernetes (k3d)** + **Docker** (Full-cycle orchestration) |
-
+| **Messaging** | **Apache Kafka (Metrics ingestion & decoupling)** |
+| **RPC** | **gRPC Bi-directional Streaming (Binary serialized OS data)** |
+| **API Layer** | **GraphQL + WebSockets (Subscriptions) for real-time UI updates** |
+| **Gateway** | **Spring Cloud Gateway for unified routing & service discovery** |
+| **Infrastructure** | **Kubernetes (k3d) + Docker (Full-cycle orchestration)** |
 </details>
+
 
 <br>
 
