@@ -39,13 +39,15 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 <details>
 <summary><b>🟢 Read more (Backend Design)</b></summary>
 <br>
-| Concept | Implementation Detail |
-| :--- | :--- |
-| **Architecture** | **Clean Architecture + Domain-Driven Design (DDD)** |
-| **Performance** | **Redis Distributed Cache + HTTP Caching** |
-| **Persistence** | **PostgreSQL** with N+1 prevention via `@EntityGraph` |
-| **Cloud** | **AWS S3** for media storage & **Stripe** for payment integration |
-| **Reliability** | **Resilience4j (Circuit Breaker) + TDD approach** |
+
+| Concept       | Implementation Detail |
+| :------------ | :------------------ |
+| **Architecture** | Clean Architecture + Domain-Driven Design (DDD) |
+| **Performance**  | Redis Distributed Cache + HTTP Caching |
+| **Persistence**  | PostgreSQL with N+1 prevention via `@EntityGraph` |
+| **Cloud**        | AWS S3 for media storage & Stripe for payment integration |
+| **Reliability**  | Resilience4j (Circuit Breaker) + TDD approach |
+
 </details>
 
 <br>
@@ -57,14 +59,16 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 <details>
 <summary><b>🟢 Read more (Security Hardening)</b></summary>
 <br>
-| Feature | Implementation Detail |
-| :--- | :--- |
-| **Reactive Core** | **Project Reactor (Non-blocking chat handler pipelines)** |
-| **Auth** | **RS256 JWT (RSA Asymmetric Signing) with Rotation Scheduler** |
-| **Anti-Hijacking** | **Cryptographic Fingerprinting (SHA-256) bound to session metadata)** |
-| **BFF Pattern** | **Backend-for-Frontend with HttpOnly/Secure/Strict cookies** |
-| **WebSocket** | **Secure Handshake validation + Ghost Socket cleanup (Heartbeats)** |
-| **Resilience** | **Redis-backed Rate Limiting + Global Payload Sanitization** |
+
+| Feature        | Implementation Detail |
+| :------------- | :------------------ |
+| **Reactive Core** | Project Reactor (Non-blocking chat handler pipelines) |
+| **Auth**          | RS256 JWT (RSA Asymmetric Signing) with Rotation Scheduler |
+| **Anti-Hijacking** | Cryptographic Fingerprinting (SHA-256) bound to session metadata |
+| **BFF Pattern**   | Backend-for-Frontend with HttpOnly/Secure/Strict cookies |
+| **WebSocket**     | Secure Handshake validation + Ghost Socket cleanup (Heartbeats) |
+| **Resilience**    | Redis-backed Rate Limiting + Global Payload Sanitization |
+
 </details>
 
 <br>
@@ -76,13 +80,15 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
 <br>
-| Concept | Implementation Detail |
-| :--- | :--- |
-| **Messaging** | **Apache Kafka (Metrics ingestion & decoupling)** |
-| **RPC** | **gRPC Bi-directional Streaming (Binary serialized OS data)** |
-| **API Layer** | **GraphQL + WebSockets (Subscriptions) for real-time UI updates** |
-| **Gateway** | **Spring Cloud Gateway for unified routing & service discovery** |
-| **Infrastructure** | **Kubernetes (k3d) + Docker (Full-cycle orchestration)** |
+
+| Concept       | Implementation Detail |
+| :------------ | :------------------ |
+| **Messaging**     | Apache Kafka (Metrics ingestion & decoupling) |
+| **RPC**           | gRPC Bi-directional Streaming (Binary serialized OS data) |
+| **API Layer**     | GraphQL + WebSockets (Subscriptions) for real-time UI updates |
+| **Gateway**       | Spring Cloud Gateway for unified routing & service discovery |
+| **Infrastructure**| Kubernetes (k3d) + Docker (Full-cycle orchestration) |
+
 </details>
 
 <br>
