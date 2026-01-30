@@ -37,7 +37,7 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 | Project | Description |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=Lumiere-backend&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**. |
+| <a href="https://github.com/Steph7478/Lumiere-backend">![Lumiere](https://img.shields.io/badge/PROJECT-LUMIERE_BACKEND-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![Java](https://img.shields.io/badge/Java-002200?style=flat-square&logo=java&logoColor=2ECC71) ![Spring](https://img.shields.io/badge/Spring-002200?style=flat-square&logo=springboot&logoColor=2ECC71) ![DDD](https://img.shields.io/badge/DDD-002200?style=flat-square&logoColor=2ECC71) | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**. |
 
 <details>
 <summary><b>🟢 Read more (Backend Design)</b></summary>
@@ -58,7 +58,7 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 | Project | Description |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=chat-websocket&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography** to ensure secure real-time communication. |
+| <a href="https://github.com/Steph7478/chat-websocket">![Chat](https://img.shields.io/badge/PROJECT-CHAT_WEBSOCKET-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![WebFlux](https://img.shields.io/badge/WebFlux-002200?style=flat-square&logo=spring&logoColor=2ECC71) ![Security](https://img.shields.io/badge/Security-002200?style=flat-square&logoColor=2ECC71) ![JWT](https://img.shields.io/badge/JWT-002200?style=flat-square&logoColor=2ECC71) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**. |
 
 <details>
 <summary><b>🟢 Read more (Security Hardening)</b></summary>
@@ -80,7 +80,7 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 | Project | Description |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steph7478&repo=PC-Sentinel&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="900"/> | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline that delivers hardware metrics via **GraphQL Subscriptions** in a **Kubernetes** cluster. |
+| <a href="https://github.com/Steph7478/PC-Sentinel">![Sentinel](https://img.shields.io/badge/PROJECT-PC_SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoColor=white)</a><br>![Kafka](https://img.shields.io/badge/Kafka-002200?style=flat-square&logo=apachekafka&logoColor=2ECC71) ![gRPC](https://img.shields.io/badge/gRPC-002200?style=flat-square&logo=google&logoColor=2ECC71) ![K8s](https://img.shields.io/badge/K8s-002200?style=flat-square&logoColor=2ECC71) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**. |
 
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
@@ -94,7 +94,6 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 | **API Layer** | **GraphQL + WebSockets (Subscriptions)** for real-time UI updates |
 | **Gateway** | **Spring Cloud Gateway** for unified routing & service discovery |
 | **Infrastructure** | **Kubernetes (k3d)** + **Docker** (Full-cycle orchestration) |
-| **Data Source** | **OSHI API** for native hardware/processor metrics collection |
 
 </details>
 <br>
