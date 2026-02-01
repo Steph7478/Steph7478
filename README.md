@@ -15,14 +15,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=donut&langs_count=5&theme=radical&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="380" align="right" />
 
-I’m a backend developer specialized in **Java** and **Spring Boot**, with a strong focus on designing **secure**, **scalable**, and **maintainable APIs**. I follow best
-practices such as **Object-Oriented Programming (OOP)**, **Clean Code**, **SOLID principles**, **Test-Driven Development (TDD)**, and **Domain-Driven Design (DDD)** to deliver solutions that are **robust** and easy to extend.
+I am a backend developer specialized in **Java** and **Spring Boot**. My technical approach is centered on designing **secure**, **scalable**, and **maintainable systems** by strictly following **Clean Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
 
-My main stack is **Java + Spring Boot**, and my second stack is **C# + ASP.NET Core**, giving me versatility to work in both **Java** and **.NET ecosystems**. I also work with **Python/Django** and **Node.js/Express.js**, especially for building **RESTful APIs** and integrating external services.
+I implement various architectural patterns, including **Modular Monoliths** and **Microservices**, depending on system requirements. My expertise includes the development of robust **REST APIs**, real-time communication with **WebSockets**, high-performance streaming with **gRPC**, and flexible data fetching with **GraphQL**. I ensure system reliability through **Apache Kafka** for event-driven messaging, **Circuit Breaker** patterns for fault tolerance, and infrastructure orchestration with **Docker** and **Kubernetes**.
 
-On the frontend side, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, which helps me collaborate effectively in cross-functional teams and better understand the connection between **frontend** and **backend**.
+My primary stack is **Java + Spring Boot**, with a strong secondary focus on **C# + ASP.NET Core**. I also work with **Python** and **Node.js**. On the frontend, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, enabling effective collaboration across full-stack environments.
 
-I’m fluent in **Portuguese** and have advanced proficiency in **English**, **German**, and **Italian**. I’m constantly **learning**, **experimenting**, and **refining my skills** to build **backend systems** that are **clean**, **efficient**, and aligned with **modern standards**.
+Fluent in **Portuguese** with advanced proficiency in **English**, **German**, and **Italian**, I focus on delivering backend solutions that are **efficient**, **robust**, and aligned with modern industry standards.
 
 <br clear="right">
 
