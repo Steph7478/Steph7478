@@ -40,13 +40,13 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 <summary><b>🟢 Read more (Backend Design)</b></summary>
 <br>
 
-| Concept       | Implementation Detail |
+| Concept         | Implementation Detail |
 | :------------ | :------------------ |
 | **Architecture** | Clean Architecture + Domain-Driven Design (DDD) |
-| **Performance**  | Redis Distributed Cache + HTTP Caching |
-| **Persistence**  | PostgreSQL with N+1 prevention via `@EntityGraph` |
-| **Cloud**        | AWS S3 for media storage & Stripe for payment integration |
-| **Reliability**  | Resilience4j (Circuit Breaker) + TDD approach |
+| **Performance** | Redis Distributed Cache + HTTP Caching |
+| **Persistence** | PostgreSQL with N+1 prevention via `@EntityGraph` |
+| **Cloud** | AWS S3 for media storage & Stripe for payment integration |
+| **Reliability** | Resilience4j (Circuit Breaker) + TDD approach |
 
 </details>
 
@@ -60,14 +60,14 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 <summary><b>🟢 Read more (Security Hardening)</b></summary>
 <br>
 
-| Feature        | Implementation Detail |
+| Feature         | Implementation Detail |
 | :------------- | :------------------ |
 | **Reactive Core** | Project Reactor (Non-blocking chat handler pipelines) |
-| **Auth**          | RS256 JWT (RSA Asymmetric Signing) with Rotation Scheduler |
+| **Auth** | RS256 JWT (RSA Asymmetric Signing) with Rotation Scheduler |
 | **Anti-Hijacking** | Cryptographic Fingerprinting (SHA-256) bound to session metadata |
-| **BFF Pattern**   | Backend-for-Frontend with HttpOnly/Secure/Strict cookies |
-| **WebSocket**     | Secure Handshake validation + Ghost Socket cleanup (Heartbeats) |
-| **Resilience**    | Redis-backed Rate Limiting + Global Payload Sanitization |
+| **BFF Pattern** | Backend-for-Frontend with HttpOnly/Secure/Strict cookies |
+| **WebSocket** | Secure Handshake validation + Ghost Socket cleanup (Heartbeats) |
+| **Resilience** | Redis-backed Rate Limiting + Global Payload Sanitization |
 
 </details>
 
@@ -75,18 +75,19 @@ I’m fluent in **Portuguese** and have advanced proficiency in **English**, **G
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/PC-Sentinel">![**SENTINEL**](https://img.shields.io/badge/SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=5) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=5) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=5) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=5) | **Distributed Monitoring System** built with **Java 21**, **gRPC streams**, and **Kafka**. Features a reactive pipeline via **GraphQL Subscriptions**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/PC-Sentinel)** |
+| <a href="https://github.com/Steph7478/PC-Sentinel">![**SENTINEL**](https://img.shields.io/badge/SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Microservices**](https://img.shields.io/badge/Microservices-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=5) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=5) ![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=5) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=5) | **Distributed Monitoring Microservices** built with **Java 21**, **gRPC**, and **Kafka**. Implements **Circuit Breaker** patterns for fault tolerance and real-time observability via **GraphQL Subscriptions**, fully orchestrated on **Kubernetes**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/PC-Sentinel)** |
 
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
 <br>
 
-| Concept       | Implementation Detail |
+| Concept        | Implementation Detail |
 | :------------ | :------------------ |
-| **Messaging**     | Apache Kafka (Metrics ingestion & decoupling) |
-| **RPC**           | gRPC Bi-directional Streaming (Binary serialized OS data) |
-| **API Layer**     | GraphQL + WebSockets (Subscriptions) for real-time UI updates |
-| **Gateway**       | Spring Cloud Gateway for unified routing & service discovery |
+| **Architecture** | Microservices Architecture (Event-Driven) |
+| **Messaging** | Apache Kafka (Metrics ingestion & decoupling) |
+| **RPC & API** | **gRPC** (Binary streaming) + **GraphQL** Subscriptions |
+| **Resilience** | **Circuit Breaker** implementation for cascading failure prevention |
+| **Gateway** | Spring Cloud Gateway for unified routing & service discovery |
 | **Infrastructure**| Kubernetes (k3d) + Docker (Full-cycle orchestration) |
 
 </details>
@@ -145,6 +146,7 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
 ### ⚙️ **Architecture, Cloud & Infrastructure**
 ![DDD](https://img.shields.io/badge/DDD-003300?style=for-the-badge&logo=domaindriven&logoColor=4CAF50)
 ![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-003300?style=for-the-badge&logo=component&logoColor=4CAF50)
+![Microservices](https://img.shields.io/badge/Microservices-003300?style=for-the-badge&logo=component&logoColor=4CAF50)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-003300?style=for-the-badge&logo=kubernetes&logoColor=4CAF50)
 ![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-003300?style=for-the-badge&logo=apache-kafka&logoColor=4CAF50)
@@ -164,6 +166,7 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
 ![REST API](https://img.shields.io/badge/REST_API-003300?style=for-the-badge&logo=api&logoColor=4CAF50)
 ![WebSockets](https://img.shields.io/badge/WebSockets-003300?style=for-the-badge&logo=websocket&logoColor=4CAF50)
 ![gRPC](https://img.shields.io/badge/gRPC-003300?style=for-the-badge&logo=grpc&logoColor=4CAF50)
+![GraphQL](https://img.shields.io/badge/GraphQL-003300?style=for-the-badge&logo=graphql&logoColor=4CAF50)
 
 </div>
 
