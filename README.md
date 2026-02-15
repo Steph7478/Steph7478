@@ -13,7 +13,7 @@
   />
 </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steph7478&layout=donut&langs_count=5&theme=radical&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="380" align="right" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Steph7478&layout=compact&langs_count=5&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="340" align="right" />
 
 I am a backend developer specialized in **Java** and **Spring Boot**. My technical approach is centered on designing **secure**, **scalable**, and **maintainable systems** by strictly following **Clean Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
 
