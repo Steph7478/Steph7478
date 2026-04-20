@@ -15,11 +15,11 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Steph7478&layout=compact&langs_count=4&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="340" align="right" />
 
-I am a backend developer specialized in **Java** and **Spring Boot**. My technical approach is centered on designing **secure**, **scalable**, and **maintainable systems** by strictly following **Clean Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
+I am a backend developer specialized in **Java** with **Spring Boot** and **Quarkus**. My technical approach is centered on designing **secure**, **scalable**, and **maintainable systems** by strictly following **Clean Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
 
 I implement various architectural patterns, including **Modular Monoliths** and **Microservices**, depending on system requirements. My expertise includes the development of robust **REST APIs**, real-time communication with **WebSockets**, high-performance streaming with **gRPC**, and flexible data fetching with **GraphQL**. I ensure system reliability through **Apache Kafka** for event-driven messaging, **Circuit Breaker** patterns for fault tolerance, and infrastructure orchestration with **Docker** and **Kubernetes**.
 
-My primary stack is **Java + Spring Boot**, with a strong secondary focus on **C# + ASP.NET Core**. I also work with **Python** and **Node.js**. On the frontend, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, enabling effective collaboration across full-stack environments.
+I specialize in **Java + Spring Boot** and **Java + Quarkus**. I can also work with **Go**, **Rust**, and **Node.js** when needed. On the frontend, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, enabling effective collaboration across full-stack environments.
 
 Fluent in **Portuguese** with advanced proficiency in **English**, **German**, and **Italian**, I focus on delivering backend solutions that are **efficient**, **robust**, and aligned with modern industry standards.
 
@@ -33,48 +33,7 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
 
 | Project | Description |
 | :--- | :--- |
-| <a href="https://github.com/Steph7478/Lumiere-backend">![**LUMIERE**](https://img.shields.io/badge/LUMIERE-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Java**](https://img.shields.io/badge/Java-002200?style=for-the-badge&logo=java&logoColor=2ECC71&logoWidth=5) ![**Spring**](https://img.shields.io/badge/Spring-002200?style=for-the-badge&logo=springboot&logoColor=2ECC71&logoWidth=5) ![**DDD**](https://img.shields.io/badge/DDD-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**Redis**](https://img.shields.io/badge/Redis-002200?style=for-the-badge&logo=redis&logoColor=2ECC71&logoWidth=5) | **Production-ready e-commerce core API** built with **Java + Spring Boot**, focused on **clean architecture**, **security**, and **high-performance backend design**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/Lumiere-backend)** |
-
-<details>
-<summary><b>🟢 Read more (Backend Design)</b></summary>
-<br>
-
-| Concept         | Implementation Detail |
-| :------------ | :------------------ |
-| **Architecture** | Clean Architecture + Domain-Driven Design (DDD) |
-| **Performance** | Redis Distributed Cache + HTTP Caching |
-| **Persistence** | PostgreSQL with N+1 prevention via `@EntityGraph` |
-| **Cloud** | AWS S3 for media storage & Stripe for payment integration |
-| **Reliability** | Resilience4j (Circuit Breaker) + TDD approach |
-
-</details>
-
-<br>
-
-| Project | Description |
-| :--- | :--- |
-| <a href="https://github.com/Steph7478/chat-websocket">![**CHAT**](https://img.shields.io/badge/CHAT-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**WebFlux**](https://img.shields.io/badge/WebFlux-002200?style=for-the-badge&logo=spring&logoColor=2ECC71&logoWidth=5) ![**Security**](https://img.shields.io/badge/Security-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**WebSockets**](https://img.shields.io/badge/WebSockets-002200?style=for-the-badge&logo=socket.io&logoColor=2ECC71&logoWidth=5) | **Reactive Messaging Engine** focused on **Zero-Trust Security**. Implements non-blocking pipelines using **Spring WebFlux** and **Asymmetric Cryptography**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/chat-websocket)** |
-
-<details>
-<summary><b>🟢 Read more (Security Hardening)</b></summary>
-<br>
-
-| Feature         | Implementation Detail |
-| :------------- | :------------------ |
-| **Reactive Core** | Project Reactor (Non-blocking chat handler pipelines) |
-| **Auth** | RS256 JWT (RSA Asymmetric Signing) with Rotation Scheduler |
-| **Anti-Hijacking** | Cryptographic Fingerprinting (SHA-256) bound to session metadata |
-| **BFF Pattern** | Backend-for-Frontend with HttpOnly/Secure/Strict cookies |
-| **WebSocket** | Secure Handshake validation + Ghost Socket cleanup (Heartbeats) |
-| **Resilience** | Redis-backed Rate Limiting + Global Payload Sanitization |
-
-</details>
-
-<br>
-
-| Project | Description |
-| :--- | :--- |
-| <a href="https://github.com/Steph7478/PC-Sentinel">![**SENTINEL**](https://img.shields.io/badge/SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Microservices**](https://img.shields.io/badge/Microservices-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=5) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=5) ![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=5) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=5) | **Distributed Monitoring Microservices** built with **Java 21**, **gRPC**, and **Kafka**. Implements **Circuit Breaker** patterns for fault tolerance and real-time observability via **GraphQL Subscriptions**, fully orchestrated on **Kubernetes**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/PC-Sentinel)** |
+| <a href="https://github.com/Steph7478/PC-Sentinel">![**PC-SENTINEL**](https://img.shields.io/badge/PC--SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Microservices**](https://img.shields.io/badge/Microservices-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=5) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=5) ![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=5) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=5) | **Distributed Monitoring Microservices** built with **Java 21**, **gRPC**, and **Kafka**. Implements **Circuit Breaker** patterns for fault tolerance and real-time observability via **GraphQL Subscriptions**, fully orchestrated on **Kubernetes**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/PC-Sentinel)** |
 
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
@@ -93,32 +52,52 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
-
-<h3 align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=WHAT+I'M+CURRENTLY+LEARNING&fontSize=30&fontColor=00FF00"
-    alt="WHAT I'M CURRENTLY LEARNING"
-  />
-</h3>
-
-### 🔹 Distributed Systems & Cloud Native Architecture
-
-I am currently leveling up my backend expertise by diving deep into **Cloud Native** patterns and **Distributed Systems** to build high-scale, resilient infrastructures.
-
-| Topic | Focus |
+| Project | Description |
 | :--- | :--- |
-| **Orchestration** | **Kubernetes (K8s)**: Container orchestration, service discovery, and automated scaling. |
-| **Messaging** | **Apache Kafka**: Building event-driven architectures and real-time data streaming. |
-| **Microservices** | **Microservices Architecture**: Service decomposition, inter-service communication, and shared data patterns. |
-| **API Patterns** | **GraphQL & gRPC**: Implementing flexible queries and high-performance, low-latency RPC communication. |
-| **Gateway** | **API Gateway**: Centralizing authentication, rate limiting, and request routing for microservices. |
+| <a href="https://github.com/Steph7478/AuthGuard">![**AUTHGUARD**](https://img.shields.io/badge/AUTHGUARD-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Rust**](https://img.shields.io/badge/Rust-002200?style=for-the-badge&logo=rust&logoColor=2ECC71&logoWidth=5) ![**Axum**](https://img.shields.io/badge/Axum-002200?style=for-the-badge&logo=rust&logoColor=2ECC71&logoWidth=5) ![**Keycloak**](https://img.shields.io/badge/Keycloak-002200?style=for-the-badge&logo=keycloak&logoColor=2ECC71&logoWidth=5) | **High-performance authentication gateway** built with **Rust + Axum**. Validates JWT tokens from Keycloak with group-based access control, integrated with Nginx for production-ready routing.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/AuthGuard)** |
 
-📌 Current Goal: Build and understand distributed, event-driven architectures with Spring Cloud, Kafka, and Kubernetes, applying microservices, messaging, and gateway patterns.
+<details>
+<summary><b>🟢 Read more (Security Gateway)</b></summary>
 <br>
 
+| Feature         | Implementation Detail |
+| :------------- | :------------------ |
+| **Runtime** | Rust + Axum (Tokio async runtime) |
+| **Auth** | JWT validation via Keycloak JWKS endpoint |
+| **Access Control** | Group-based authorization from Keycloak claims |
+| **Rate Limiting** | Nginx-based per-IP rate limiting |
+| **Observability** | Prometheus metrics endpoint |
+| **IDP Integration** | Google Login support with `kc_idp_hint` |
+
+</details>
+
+<br>
+
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/Steph7478/ai-chatbot">![**AI-CHATBOT**](https://img.shields.io/badge/AI--CHATBOT-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Go**](https://img.shields.io/badge/Go-002200?style=for-the-badge&logo=go&logoColor=2ECC71&logoWidth=5) ![**Transformer**](https://img.shields.io/badge/Transformer-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**NN**](https://img.shields.io/badge/Neural_Network-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) | **Lightweight AI-powered Java assistant** built with pure Go. Uses a Transformer with Multi-Head Attention to generate responses and learns from conversations through interactive feedback.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/ai-chatbot)** |
+
+<details>
+<summary><b>🟢 Read more (AI Architecture)</b></summary>
+<br>
+
+| Concept         | Implementation Detail |
+| :------------ | :------------------ |
+| **Architecture** | Transformer with Multi-Head Attention (pure Go) |
+| **Tokenization** | Word-based dynamic vocabulary building |
+| **Matching** | Three-tier system: Exact → Fuzzy → Neural |
+| **Learning** | Interactive feedback loop with persistent memory |
+| **Training** | Early stopping with configurable patience |
+| **Persistence** | Saves both neural weights AND vocabulary |
+| **Optimization** | Repetition penalty to prevent mode collapse |
+| **Topics** | Java history, JVM, OOP, Spring Boot, Microservices |
+
+</details>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
+
 <h3 align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=TECHNOLOGIES&fontSize=30&fontColor=00FF00"
@@ -136,8 +115,8 @@ I am currently leveling up my backend expertise by diving deep into **Cloud Nati
 ![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=java&logoColor=4CAF50)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
 ![Quarkus](https://img.shields.io/badge/Quarkus-003300?style=for-the-badge&logo=quarkus&logoColor=4CAF50)
-![C#](https://img.shields.io/badge/C%23-003300?style=for-the-badge&logo=c-sharp&logoColor=4CAF50)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-003300?style=for-the-badge&logo=asp.net&logoColor=4CAF50)
+![Go](https://img.shields.io/badge/Go-003300?style=for-the-badge&logo=go&logoColor=4CAF50)
+![Rust](https://img.shields.io/badge/Rust-003300?style=for-the-badge&logo=rust&logoColor=4CAF50)
 ![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge&logo=node.js&logoColor=4CAF50)
 ![Python](https://img.shields.io/badge/Python-003300?style=for-the-badge&logo=python&logoColor=4CAF50)
 ![TypeScript](https://img.shields.io/badge/TypeScript-003300?style=for-the-badge&logo=typescript&logoColor=4CAF50)
