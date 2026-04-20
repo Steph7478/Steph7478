@@ -19,7 +19,7 @@ I am a backend developer specialized in **Java** with **Spring Boot** and **Quar
 
 I implement various architectural patterns, including **Modular Monoliths** and **Microservices**, depending on system requirements. My expertise includes the development of robust **REST APIs**, real-time communication with **WebSockets**, high-performance streaming with **gRPC**, and flexible data fetching with **GraphQL**. I ensure system reliability through **Apache Kafka** for event-driven messaging, **Circuit Breaker** patterns for fault tolerance, and infrastructure orchestration with **Docker** and **Kubernetes**.
 
-I specialize in **Java + Spring Boot** and **Java + Quarkus**. I can also work with **Go**, **Rust**, and **Node.js** when needed. On the frontend, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, enabling effective collaboration across full-stack environments.
+I specialize in **Java + Spring Boot** and **Java + Quarkus**. I can also work with **C#/.NET**, **Go**, **Rust**, and **Node.js** when needed. On the frontend, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, enabling effective collaboration across full-stack environments.
 
 Fluent in **Portuguese** with advanced proficiency in **English**, **German**, and **Italian**, I focus on delivering backend solutions that are **efficient**, **robust**, and aligned with modern industry standards.
 
@@ -75,6 +75,26 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
 
 | Project | Description |
 | :--- | :--- |
+| <a href="https://github.com/Steph7478/terraform-lab">![**TERRAFORM LAB**](https://img.shields.io/badge/TERRAFORM_LAB-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Terraform**](https://img.shields.io/badge/Terraform-002200?style=for-the-badge&logo=terraform&logoColor=2ECC71&logoWidth=5) ![**LocalStack**](https://img.shields.io/badge/LocalStack-002200?style=for-the-badge&logo=localstack&logoColor=2ECC71&logoWidth=5) ![**MinIO**](https://img.shields.io/badge/MinIO-002200?style=for-the-badge&logo=minio&logoColor=2ECC71&logoWidth=5) ![**Nginx**](https://img.shields.io/badge/Nginx-002200?style=for-the-badge&logo=nginx&logoColor=2ECC71&logoWidth=5) | **Complete infrastructure lab** using Terraform, LocalStack (AWS simulation), MinIO (S3-compatible storage), and Nginx for load balancing and reverse proxy.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/terraform-lab)** |
+
+<details>
+<summary><b>🟢 Read more (Infrastructure as Code)</b></summary>
+<br>
+
+| Concept        | Implementation Detail |
+| :------------ | :------------------ |
+| **IaC Tool** | Terraform with 13 reusable modules |
+| **AWS Simulation** | LocalStack for local AWS development |
+| **Storage** | MinIO for S3-compatible object storage |
+| **Load Balancing** | Nginx reverse proxy with round-robin |
+| **Modules** | Networking, Security, Compute, Storage, Database, Messaging, Serverless, API Gateway, Streaming, Orchestration, Events, Secrets, DNS |
+
+</details>
+
+<br>
+
+| Project | Description |
+| :--- | :--- |
 | <a href="https://github.com/Steph7478/ai-chatbot">![**AI-CHATBOT**](https://img.shields.io/badge/AI--CHATBOT-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Go**](https://img.shields.io/badge/Go-002200?style=for-the-badge&logo=go&logoColor=2ECC71&logoWidth=5) ![**Transformer**](https://img.shields.io/badge/Transformer-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**NN**](https://img.shields.io/badge/Neural_Network-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) | **Lightweight AI-powered Java assistant** built with pure Go. Uses a Transformer with Multi-Head Attention to generate responses and learns from conversations through interactive feedback.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/ai-chatbot)** |
 
 <details>
@@ -115,6 +135,8 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
 ![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=java&logoColor=4CAF50)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
 ![Quarkus](https://img.shields.io/badge/Quarkus-003300?style=for-the-badge&logo=quarkus&logoColor=4CAF50)
+![C#](https://img.shields.io/badge/C%23-003300?style=for-the-badge&logo=csharp&logoColor=4CAF50)
+![.NET](https://img.shields.io/badge/.NET-003300?style=for-the-badge&logo=dotnet&logoColor=4CAF50)
 ![Go](https://img.shields.io/badge/Go-003300?style=for-the-badge&logo=go&logoColor=4CAF50)
 ![Rust](https://img.shields.io/badge/Rust-003300?style=for-the-badge&logo=rust&logoColor=4CAF50)
 ![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge&logo=node.js&logoColor=4CAF50)
@@ -128,7 +150,10 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-003300?style=for-the-badge&logo=kubernetes&logoColor=4CAF50)
 ![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-003300?style=for-the-badge&logo=apache-kafka&logoColor=4CAF50)
+![Terraform](https://img.shields.io/badge/Terraform-003300?style=for-the-badge&logo=terraform&logoColor=4CAF50)
+![LocalStack](https://img.shields.io/badge/LocalStack-003300?style=for-the-badge&logo=localstack&logoColor=4CAF50)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-003300?style=for-the-badge&logo=amazons3&logoColor=4CAF50)
+![MinIO](https://img.shields.io/badge/MinIO-003300?style=for-the-badge&logo=minio&logoColor=4CAF50)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
 ![Redis](https://img.shields.io/badge/Redis-003300?style=for-the-badge&logo=redis&logoColor=4CAF50)
 ![Swagger](https://img.shields.io/badge/Swagger-003300?style=for-the-badge&logo=swagger&logoColor=66BB6A)
