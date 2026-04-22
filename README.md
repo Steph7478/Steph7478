@@ -187,7 +187,6 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
 <p align="center">
   <a href="https://www.linkedin.com/in/gurgel-dev/"><img src="https://img.shields.io/badge/LinkedIn-Stephanie%20Gurgel-%23009900?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:gurgeldev@outlook.de"><img src="https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://gurgeldev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gurgeldev.vercel.app-%23009900?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 <br> 
