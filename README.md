@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&height=120&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Backend+Developer.;I+love+Java." alt="typing-banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&height=120&lines=Hey!+I'm+Stephanie+Gurgel.;I'm+a+Back-end+Software+Engineer.;I+love+Java." alt="typing-banner" />
 </h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Steph7478&layout=compact&langs_count=4&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="340" align="right" />
 
-I am a backend developer specialized in **Java** with **Spring Boot** and **Quarkus**. My technical approach is centered on designing **secure**, **scalable**, and **maintainable systems** by strictly following **Clean Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
+I am a **Back-end Software Engineer** specialized in **Java** with **Spring Boot** and **Quarkus**. My technical approach is centered on designing **secure**, **scalable**, and **maintainable systems** by strictly following **Clean Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
 
 I implement various architectural patterns, including **Modular Monoliths** and **Microservices**, depending on system requirements. My expertise includes the development of robust **REST APIs**, real-time communication with **WebSockets**, high-performance streaming with **gRPC**, and flexible data fetching with **GraphQL**. I ensure system reliability through **Apache Kafka** for event-driven messaging, **Circuit Breaker** patterns for fault tolerance, and infrastructure orchestration with **Docker** and **Kubernetes**.
 
