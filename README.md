@@ -15,102 +15,107 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Steph7478&layout=compact&langs_count=4&bg_color=0d1117&title_color=39ff14&text_color=39ff14&icon_color=39ff14&hide_border=true" width="340" align="right" />
 
-I am a **Back-end Software Engineer** specialized in **Java** with **Spring Boot** and **Quarkus**. My technical approach is centered on designing **secure**, **scalable**, and **maintainable systems** by strictly following **Clean Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
+I am a **Back-end Software Engineer** specialized in **Java**, with **Go as my second primary backend stack**, and experience with **Spring Boot** and **Quarkus**. I also have a growing focus on **Application Security (AppSec)**. My technical approach is centered on building **secure, scalable, and maintainable systems** by applying **Clean Architecture**, **Hexagonal Architecture**, **Object-Oriented Programming (OOP)**, **SOLID principles**, **TDD**, and **Domain-Driven Design (DDD)**.
 
-I implement various architectural patterns, including **Modular Monoliths** and **Microservices**, depending on system requirements. My expertise includes the development of robust **REST APIs**, real-time communication with **WebSockets**, high-performance streaming with **gRPC**, and flexible data fetching with **GraphQL**. I ensure system reliability through **Apache Kafka** for event-driven messaging, **Circuit Breaker** patterns for fault tolerance, and infrastructure orchestration with **Docker** and **Kubernetes**.
+My backend experience includes designing and developing robust **REST APIs**, real-time communication with **WebSockets**, high-performance streaming with **gRPC**, and flexible data fetching with **GraphQL**. I have worked with **Modular Monoliths**, **Microservices**, **Hexagonal Architecture**, and **event-driven architectures**, as well as **Apache Kafka**, **Circuit Breaker** patterns, **Docker**, and **Kubernetes**.
 
-I specialize in **Java + Spring Boot** and **Java + Quarkus**. I can also work with **C#/.NET**, **Go**, **Rust**, and **Node.js** when needed. On the frontend, I have experience with **Angular**, **RxJS**, **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, enabling effective collaboration across full-stack environments.
+Alongside my backend experience, I am currently **deepening and expanding my knowledge of Application Security (AppSec)**, continuously studying security practices and methodologies related to modern application security and secure software development.
 
-Fluent in **Portuguese** with advanced proficiency in **English**, **German**, and **Italian**, I focus on delivering backend solutions that are **efficient**, **robust**, and aligned with modern industry standards.
+I also have experience working with **AWS**, including application deployment and cloud infrastructure workflows. I have used the **AWS CLI** to interact with AWS resources, support application deployments, investigate application environments, and access and analyze application logs and cloud resources.
+
+In addition to **Java and Go**, I also work with other programming languages and technologies, including **Rust**, **C#/.NET**, **Node.js**, **Python**, and **TypeScript**.
 
 <br clear="right">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=00FF00" alt="RELEVANT PROJECTS" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=80&width=600&text=RELEVANT+PROJECTS&fontSize=30&fontColor=00FF00"
+    alt="RELEVANT PROJECTS"
+  />
 </h3>
 
-| Project | Description |
-| :--- | :--- |
-| <a href="https://github.com/Steph7478/PC-Sentinel">![**PC-SENTINEL**](https://img.shields.io/badge/PC--SENTINEL-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Microservices**](https://img.shields.io/badge/Microservices-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**gRPC**](https://img.shields.io/badge/gRPC-002200?style=for-the-badge&logo=grpc&logoColor=2ECC71&logoWidth=5) ![**GraphQL**](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge&logo=graphql&logoColor=2ECC71&logoWidth=5) ![**Kafka**](https://img.shields.io/badge/Kafka-002200?style=for-the-badge&logo=apachekafka&logoColor=2ECC71&logoWidth=5) ![**K8s**](https://img.shields.io/badge/K8s-002200?style=for-the-badge&logo=kubernetes&logoColor=2ECC71&logoWidth=5) | **Distributed Monitoring Microservices** built with **Java 21**, **gRPC**, and **Kafka**. Implements **Circuit Breaker** patterns for fault tolerance and real-time observability via **GraphQL Subscriptions**, fully orchestrated on **Kubernetes**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/PC-Sentinel)** |
+| Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Description                                                                                                                                                                                                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Steph7478/PC-Sentinel">![PC-SENTINEL](https://img.shields.io/badge/PC--SENTINEL-2E7D32?style=for-the-badge\&labelColor=000000\&logo=github\&logoWidth=5)</a><br>![Microservices](https://img.shields.io/badge/Microservices-002200?style=for-the-badge\&logoColor=2ECC71\&logoWidth=5) ![gRPC](https://img.shields.io/badge/gRPC-002200?style=for-the-badge\&logo=grpc\&logoColor=2ECC71\&logoWidth=5) ![GraphQL](https://img.shields.io/badge/GraphQL-002200?style=for-the-badge\&logo=graphql\&logoColor=2ECC71\&logoWidth=5) ![Kafka](https://img.shields.io/badge/Kafka-002200?style=for-the-badge\&logo=apachekafka\&logoColor=2ECC71\&logoWidth=5) ![K8s](https://img.shields.io/badge/K8s-002200?style=for-the-badge\&logo=kubernetes\&logoColor=2ECC71\&logoWidth=5) | **Distributed Monitoring Microservices** built with **Java 21**, **gRPC**, and **Kafka**. Implements **Circuit Breaker** patterns for fault tolerance and real-time observability via **GraphQL Subscriptions**, fully orchestrated on **Kubernetes**.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/PC-Sentinel)** |
 
 <details>
 <summary><b>🟢 Read more (Cloud Native Architecture)</b></summary>
 <br>
 
-| Concept        | Implementation Detail |
-| :------------ | :------------------ |
-| **Architecture** | Microservices Architecture (Event-Driven) |
-| **Messaging** | Apache Kafka (Metrics ingestion & decoupling) |
-| **RPC & API** | **gRPC** (Binary streaming) + **GraphQL** Subscriptions |
-| **Resilience** | **Circuit Breaker** implementation for cascading failure prevention |
-| **Gateway** | Spring Cloud Gateway for unified routing & service discovery |
-| **Infrastructure**| Kubernetes (k3d) + Docker (Full-cycle orchestration) |
+| Concept            | Implementation Detail                                               |
+| :----------------- | :------------------------------------------------------------------ |
+| **Architecture**   | Microservices Architecture (Event-Driven)                           |
+| **Messaging**      | Apache Kafka (Metrics ingestion & decoupling)                       |
+| **RPC & API**      | **gRPC** (Binary streaming) + **GraphQL** Subscriptions             |
+| **Resilience**     | **Circuit Breaker** implementation for cascading failure prevention |
+| **Gateway**        | Spring Cloud Gateway for unified routing & service discovery        |
+| **Infrastructure** | Kubernetes (k3d) + Docker (Full-cycle orchestration)                |
 
 </details>
 
 <br>
 
-| Project | Description |
-| :--- | :--- |
-| <a href="https://github.com/Steph7478/AuthGuard">![**AUTHGUARD**](https://img.shields.io/badge/AUTHGUARD-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Rust**](https://img.shields.io/badge/Rust-002200?style=for-the-badge&logo=rust&logoColor=2ECC71&logoWidth=5) ![**Axum**](https://img.shields.io/badge/Axum-002200?style=for-the-badge&logo=rust&logoColor=2ECC71&logoWidth=5) ![**Keycloak**](https://img.shields.io/badge/Keycloak-002200?style=for-the-badge&logo=keycloak&logoColor=2ECC71&logoWidth=5) | **High-performance authentication gateway** built with **Rust + Axum**. Validates JWT tokens from Keycloak with group-based access control, integrated with Nginx for production-ready routing.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/AuthGuard)** |
+| Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Description                                                                                                                                                                                                                                                               |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/Steph7478/AuthGuard">![AUTHGUARD](https://img.shields.io/badge/AUTHGUARD-2E7D32?style=for-the-badge\&labelColor=000000\&logo=github\&logoWidth=5)</a><br>![Rust](https://img.shields.io/badge/Rust-002200?style=for-the-badge\&logo=rust\&logoColor=2ECC71\&logoWidth=5) ![Axum](https://img.shields.io/badge/Axum-002200?style=for-the-badge\&logo=rust\&logoColor=2ECC71\&logoWidth=5) ![Keycloak](https://img.shields.io/badge/Keycloak-002200?style=for-the-badge\&logo=keycloak\&logoColor=2ECC71\&logoWidth=5) | **High-performance authentication gateway** built with **Rust + Axum**. Validates JWT tokens from Keycloak with group-based access control, integrated with Nginx for production-ready routing.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/AuthGuard)** |
 
 <details>
 <summary><b>🟢 Read more (Security Gateway)</b></summary>
 <br>
 
-| Feature         | Implementation Detail |
-| :------------- | :------------------ |
-| **Runtime** | Rust + Axum (Tokio async runtime) |
-| **Auth** | JWT validation via Keycloak JWKS endpoint |
-| **Access Control** | Group-based authorization from Keycloak claims |
-| **Rate Limiting** | Nginx-based per-IP rate limiting |
-| **Observability** | Prometheus metrics endpoint |
-| **IDP Integration** | Google Login support with `kc_idp_hint` |
+| Feature             | Implementation Detail                          |
+| :------------------ | :--------------------------------------------- |
+| **Runtime**         | Rust + Axum (Tokio async runtime)              |
+| **Auth**            | JWT validation via Keycloak JWKS endpoint      |
+| **Access Control**  | Group-based authorization from Keycloak claims |
+| **Rate Limiting**   | Nginx-based per-IP rate limiting               |
+| **Observability**   | Prometheus metrics endpoint                    |
+| **IDP Integration** | Google Login support with `kc_idp_hint`        |
 
 </details>
 
 <br>
 
-| Project | Description |
-| :--- | :--- |
-| <a href="https://github.com/Steph7478/terraform-lab">![**TERRAFORM LAB**](https://img.shields.io/badge/TERRAFORM_LAB-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Terraform**](https://img.shields.io/badge/Terraform-002200?style=for-the-badge&logo=terraform&logoColor=2ECC71&logoWidth=5) ![**LocalStack**](https://img.shields.io/badge/LocalStack-002200?style=for-the-badge&logo=localstack&logoColor=2ECC71&logoWidth=5) ![**MinIO**](https://img.shields.io/badge/MinIO-002200?style=for-the-badge&logo=minio&logoColor=2ECC71&logoWidth=5) ![**Nginx**](https://img.shields.io/badge/Nginx-002200?style=for-the-badge&logo=nginx&logoColor=2ECC71&logoWidth=5) | **Complete infrastructure lab** using Terraform, LocalStack (AWS simulation), MinIO (S3-compatible storage), and Nginx for load balancing and reverse proxy.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/terraform-lab)** |
+| Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Description                                                                                                                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Steph7478/terraform-lab">![TERRAFORM LAB](https://img.shields.io/badge/TERRAFORM_LAB-2E7D32?style=for-the-badge\&labelColor=000000\&logo=github\&logoWidth=5)</a><br>![Terraform](https://img.shields.io/badge/Terraform-002200?style=for-the-badge\&logo=terraform\&logoColor=2ECC71\&logoWidth=5) ![LocalStack](https://img.shields.io/badge/LocalStack-002200?style=for-the-badge\&logo=localstack\&logoColor=2ECC71\&logoWidth=5) ![MinIO](https://img.shields.io/badge/MinIO-002200?style=for-the-badge\&logo=minio\&logoColor=2ECC71\&logoWidth=5) ![Nginx](https://img.shields.io/badge/Nginx-002200?style=for-the-badge\&logo=nginx\&logoColor=2ECC71\&logoWidth=5) | **Complete infrastructure lab** using Terraform, LocalStack (AWS simulation), MinIO (S3-compatible storage), and Nginx for load balancing and reverse proxy.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/terraform-lab)** |
 
 <details>
 <summary><b>🟢 Read more (Infrastructure as Code)</b></summary>
 <br>
 
-| Concept        | Implementation Detail |
-| :------------ | :------------------ |
-| **IaC Tool** | Terraform with 13 reusable modules |
-| **AWS Simulation** | LocalStack for local AWS development |
-| **Storage** | MinIO for S3-compatible object storage |
-| **Load Balancing** | Nginx reverse proxy with round-robin |
-| **Modules** | Networking, Security, Compute, Storage, Database, Messaging, Serverless, API Gateway, Streaming, Orchestration, Events, Secrets, DNS |
+| Concept            | Implementation Detail                                                                                                                |
+| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **IaC Tool**       | Terraform with 13 reusable modules                                                                                                   |
+| **AWS Simulation** | LocalStack for local AWS development                                                                                                 |
+| **Storage**        | MinIO for S3-compatible object storage                                                                                               |
+| **Load Balancing** | Nginx reverse proxy with round-robin                                                                                                 |
+| **Modules**        | Networking, Security, Compute, Storage, Database, Messaging, Serverless, API Gateway, Streaming, Orchestration, Events, Secrets, DNS |
 
 </details>
 
 <br>
 
-| Project | Description |
-| :--- | :--- |
-| <a href="https://github.com/Steph7478/ai-chatbot">![**AI-CHATBOT**](https://img.shields.io/badge/AI--CHATBOT-2E7D32?style=for-the-badge&labelColor=000000&logo=github&logoWidth=5)</a><br>![**Go**](https://img.shields.io/badge/Go-002200?style=for-the-badge&logo=go&logoColor=2ECC71&logoWidth=5) ![**Transformer**](https://img.shields.io/badge/Transformer-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) ![**NN**](https://img.shields.io/badge/Neural_Network-002200?style=for-the-badge&logoColor=2ECC71&logoWidth=5) | **Lightweight AI-powered Java assistant** built with pure Go. Uses a Transformer with Multi-Head Attention to generate responses and learns from conversations through interactive feedback.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/ai-chatbot)** |
+| Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Description                                                                                                                                                                                                                                                             |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/Steph7478/ai-chatbot">![AI-CHATBOT](https://img.shields.io/badge/AI--CHATBOT-2E7D32?style=for-the-badge\&labelColor=000000\&logo=github\&logoWidth=5)</a><br>![Go](https://img.shields.io/badge/Go-002200?style=for-the-badge\&logo=go\&logoColor=2ECC71\&logoWidth=5) ![Transformer](https://img.shields.io/badge/Transformer-002200?style=for-the-badge\&logoColor=2ECC71\&logoWidth=5) ![NN](https://img.shields.io/badge/Neural_Network-002200?style=for-the-badge\&logoColor=2ECC71\&logoWidth=5) | **Lightweight AI-powered Java assistant** built with pure Go. Uses a Transformer with Multi-Head Attention to generate responses and learns from conversations through interactive feedback.<br><br>🔗 **[Checkout the Repo](https://github.com/Steph7478/ai-chatbot)** |
 
 <details>
 <summary><b>🟢 Read more (AI Architecture)</b></summary>
 <br>
 
-| Concept         | Implementation Detail |
-| :------------ | :------------------ |
-| **Architecture** | Transformer with Multi-Head Attention (pure Go) |
-| **Tokenization** | Word-based dynamic vocabulary building |
-| **Matching** | Three-tier system: Exact → Fuzzy → Neural |
-| **Learning** | Interactive feedback loop with persistent memory |
-| **Training** | Early stopping with configurable patience |
-| **Persistence** | Saves both neural weights AND vocabulary |
-| **Optimization** | Repetition penalty to prevent mode collapse |
-| **Topics** | Java history, JVM, OOP, Spring Boot, Microservices |
+| Concept          | Implementation Detail                              |
+| :--------------- | :------------------------------------------------- |
+| **Architecture** | Transformer with Multi-Head Attention (pure Go)    |
+| **Tokenization** | Word-based dynamic vocabulary building             |
+| **Matching**     | Three-tier system: Exact → Fuzzy → Neural          |
+| **Learning**     | Interactive feedback loop with persistent memory   |
+| **Training**     | Early stopping with configurable patience          |
+| **Persistence**  | Saves both neural weights AND vocabulary           |
+| **Optimization** | Repetition penalty to prevent mode collapse        |
+| **Topics**       | Java history, JVM, OOP, Spring Boot, Microservices |
 
 </details>
 
@@ -132,48 +137,59 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
 <div align="left">
 
 ### 🟢 **Backend & Languages**
-![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge&logo=java&logoColor=4CAF50)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge&logo=springboot&logoColor=4CAF50)
-![Quarkus](https://img.shields.io/badge/Quarkus-003300?style=for-the-badge&logo=quarkus&logoColor=4CAF50)
-![C#](https://img.shields.io/badge/C%23-003300?style=for-the-badge&logo=csharp&logoColor=4CAF50)
-![.NET](https://img.shields.io/badge/.NET-003300?style=for-the-badge&logo=dotnet&logoColor=4CAF50)
-![Go](https://img.shields.io/badge/Go-003300?style=for-the-badge&logo=go&logoColor=4CAF50)
-![Rust](https://img.shields.io/badge/Rust-003300?style=for-the-badge&logo=rust&logoColor=4CAF50)
-![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge&logo=node.js&logoColor=4CAF50)
-![Python](https://img.shields.io/badge/Python-003300?style=for-the-badge&logo=python&logoColor=4CAF50)
-![TypeScript](https://img.shields.io/badge/TypeScript-003300?style=for-the-badge&logo=typescript&logoColor=4CAF50)
+
+![Java](https://img.shields.io/badge/Java-003300?style=for-the-badge\&logo=java\&logoColor=4CAF50)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-003300?style=for-the-badge\&logo=springboot\&logoColor=4CAF50)
+![Quarkus](https://img.shields.io/badge/Quarkus-003300?style=for-the-badge\&logo=quarkus\&logoColor=4CAF50)
+![C#](https://img.shields.io/badge/C%23-003300?style=for-the-badge\&logo=csharp\&logoColor=4CAF50)
+![.NET](https://img.shields.io/badge/.NET-003300?style=for-the-badge\&logo=dotnet\&logoColor=4CAF50)
+![Go](https://img.shields.io/badge/Go-003300?style=for-the-badge\&logo=go\&logoColor=4CAF50)
+![Rust](https://img.shields.io/badge/Rust-003300?style=for-the-badge\&logo=rust\&logoColor=4CAF50)
+![Node.js](https://img.shields.io/badge/Node.js-003300?style=for-the-badge\&logo=node.js\&logoColor=4CAF50)
+![Python](https://img.shields.io/badge/Python-003300?style=for-the-badge\&logo=python\&logoColor=4CAF50)
+![TypeScript](https://img.shields.io/badge/TypeScript-003300?style=for-the-badge\&logo=typescript\&logoColor=4CAF50)
 
 ### ⚙️ **Architecture, Cloud & Infrastructure**
-![DDD](https://img.shields.io/badge/DDD-003300?style=for-the-badge&logo=domaindriven&logoColor=4CAF50)
-![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-003300?style=for-the-badge&logo=component&logoColor=4CAF50)
-![Microservices](https://img.shields.io/badge/Microservices-003300?style=for-the-badge&logo=component&logoColor=4CAF50)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-003300?style=for-the-badge&logo=kubernetes&logoColor=4CAF50)
-![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge&logo=docker&logoColor=4CAF50)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-003300?style=for-the-badge&logo=apache-kafka&logoColor=4CAF50)
-![Terraform](https://img.shields.io/badge/Terraform-003300?style=for-the-badge&logo=terraform&logoColor=4CAF50)
-![LocalStack](https://img.shields.io/badge/LocalStack-003300?style=for-the-badge&logo=localstack&logoColor=4CAF50)
-![AWS S3](https://img.shields.io/badge/AWS_S3-003300?style=for-the-badge&logo=amazons3&logoColor=4CAF50)
-![MinIO](https://img.shields.io/badge/MinIO-003300?style=for-the-badge&logo=minio&logoColor=4CAF50)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
-![Redis](https://img.shields.io/badge/Redis-003300?style=for-the-badge&logo=redis&logoColor=4CAF50)
-![Swagger](https://img.shields.io/badge/Swagger-003300?style=for-the-badge&logo=swagger&logoColor=66BB6A)
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-003300?style=for-the-badge\&logo=architecture\&logoColor=4CAF50)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-003300?style=for-the-badge\&logo=architecture\&logoColor=4CAF50)
+![DDD](https://img.shields.io/badge/DDD-003300?style=for-the-badge\&logo=domaindriven\&logoColor=4CAF50)
+![SOLID](https://img.shields.io/badge/SOLID-003300?style=for-the-badge\&logo=solid\&logoColor=4CAF50)
+![TDD](https://img.shields.io/badge/TDD-003300?style=for-the-badge\&logo=testing\&logoColor=4CAF50)
+![OOP](https://img.shields.io/badge/OOP-003300?style=for-the-badge\&logo=oop\&logoColor=4CAF50)
+![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-003300?style=for-the-badge\&logo=component\&logoColor=4CAF50)
+![Microservices](https://img.shields.io/badge/Microservices-003300?style=for-the-badge\&logo=component\&logoColor=4CAF50)
+![AWS](https://img.shields.io/badge/AWS-003300?style=for-the-badge\&logo=amazonwebservices\&logoColor=4CAF50)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-003300?style=for-the-badge\&logo=amazonaws\&logoColor=4CAF50)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-003300?style=for-the-badge\&logo=kubernetes\&logoColor=4CAF50)
+![Docker](https://img.shields.io/badge/Docker-003300?style=for-the-badge\&logo=docker\&logoColor=4CAF50)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-003300?style=for-the-badge\&logo=apachekafka\&logoColor=4CAF50)
+![Terraform](https://img.shields.io/badge/Terraform-003300?style=for-the-badge\&logo=terraform\&logoColor=4CAF50)
+![LocalStack](https://img.shields.io/badge/LocalStack-003300?style=for-the-badge\&logo=localstack\&logoColor=4CAF50)
+![AWS S3](https://img.shields.io/badge/AWS_S3-003300?style=for-the-badge\&logo=amazons3\&logoColor=4CAF50)
+![MinIO](https://img.shields.io/badge/MinIO-003300?style=for-the-badge\&logo=minio\&logoColor=4CAF50)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge\&logo=postgresql\&logoColor=4CAF50)
+![Redis](https://img.shields.io/badge/Redis-003300?style=for-the-badge\&logo=redis\&logoColor=4CAF50)
+![Swagger](https://img.shields.io/badge/Swagger-003300?style=for-the-badge\&logo=swagger\&logoColor=66BB6A)
 
 ### 🎨 **Frontend Development**
-![Angular](https://img.shields.io/badge/Angular-003300?style=for-the-badge&logo=angular&logoColor=4CAF50)
-![React](https://img.shields.io/badge/React-003300?style=for-the-badge&logo=react&logoColor=4CAF50)
-![Next.js](https://img.shields.io/badge/Next.js-003300?style=for-the-badge&logo=next.js&logoColor=4CAF50)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-003300?style=for-the-badge&logo=tailwind-css&logoColor=4CAF50)
-![RxJS](https://img.shields.io/badge/RxJS-003300?style=for-the-badge&logo=reactivex&logoColor=4CAF50)
+
+![Angular](https://img.shields.io/badge/Angular-003300?style=for-the-badge\&logo=angular\&logoColor=4CAF50)
+![React](https://img.shields.io/badge/React-003300?style=for-the-badge\&logo=react\&logoColor=4CAF50)
+![Next.js](https://img.shields.io/badge/Next.js-003300?style=for-the-badge\&logo=next.js\&logoColor=4CAF50)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-003300?style=for-the-badge\&logo=tailwind-css\&logoColor=4CAF50)
+![RxJS](https://img.shields.io/badge/RxJS-003300?style=for-the-badge\&logo=reactivex\&logoColor=4CAF50)
 
 ### 🔌 **API Standards & Communication**
-![REST API](https://img.shields.io/badge/REST_API-003300?style=for-the-badge&logo=api&logoColor=4CAF50)
-![WebSockets](https://img.shields.io/badge/WebSockets-003300?style=for-the-badge&logo=websocket&logoColor=4CAF50)
-![gRPC](https://img.shields.io/badge/gRPC-003300?style=for-the-badge&logo=grpc&logoColor=4CAF50)
-![GraphQL](https://img.shields.io/badge/GraphQL-003300?style=for-the-badge&logo=graphql&logoColor=4CAF50)
+
+![REST API](https://img.shields.io/badge/REST_API-003300?style=for-the-badge\&logo=api\&logoColor=4CAF50)
+![WebSockets](https://img.shields.io/badge/WebSockets-003300?style=for-the-badge\&logo=websocket\&logoColor=4CAF50)
+![gRPC](https://img.shields.io/badge/gRPC-003300?style=for-the-badge\&logo=grpc\&logoColor=4CAF50)
+![GraphQL](https://img.shields.io/badge/GraphQL-003300?style=for-the-badge\&logo=graphql\&logoColor=4CAF50)
 
 </div>
 
-<br> 
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=003300&height=2"/>
 
@@ -189,7 +205,7 @@ Fluent in **Portuguese** with advanced proficiency in **English**, **German**, a
   <a href="mailto:gurgeldev@outlook.de"><img src="https://img.shields.io/badge/Email-gurgeldev@outlook.de-%23009900?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
-<br> 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steph7478/Steph7478/output/pacman-contribution-graph-dark.svg">
