@@ -166,7 +166,6 @@ In addition to **Java and Go**, I also work with other programming languages and
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-003300?style=for-the-badge\&logo=apachekafka\&logoColor=4CAF50)
 ![Terraform](https://img.shields.io/badge/Terraform-003300?style=for-the-badge\&logo=terraform\&logoColor=4CAF50)
 ![LocalStack](https://img.shields.io/badge/LocalStack-003300?style=for-the-badge\&logo=localstack\&logoColor=4CAF50)
-![AWS S3](https://img.shields.io/badge/AWS_S3-003300?style=for-the-badge\&logo=amazons3\&logoColor=4CAF50)
 ![MinIO](https://img.shields.io/badge/MinIO-003300?style=for-the-badge\&logo=minio\&logoColor=4CAF50)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003300?style=for-the-badge\&logo=postgresql\&logoColor=4CAF50)
 ![Redis](https://img.shields.io/badge/Redis-003300?style=for-the-badge\&logo=redis\&logoColor=4CAF50)
